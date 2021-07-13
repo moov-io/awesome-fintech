@@ -2,7 +2,7 @@
 
 A curated collection of open source fintech libraries and resources. This is not a complete list, so please feel free to submit a pull request adding a project with a short description! Actively maintained projects with great documentation are preferred.
 
-# Table of Contents
+## Table of contents
 - [Calculators](#calculators)
 - [Charts](#charts)
 - [Credit Card Forms](#credit-card-forms)
@@ -28,11 +28,11 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - display financial data as an interactive chart on your web page without affecting loading speed and performance
 - [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) - charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
 
-## Credit Card Forms
+## Credit card forms
 - [Card](https://github.com/jessepollak/card) - a better credit card form in one line of code
 - [Payment](https://github.com/jessepollak/payment) - a jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers
 
-## Currency Handling
+## Currency handling
 - [accounting](https://github.com/leekchan/accounting) - money and currency formatting for Golang
 - [accounting.js](https://github.com/openexchangerates/accounting.js) -  a tiny JavaScript library for number, money, and currency parsing/formatting
 - [currency.js](https://github.com/scurker/currency.js/) - a lightweight library for handling currency values and built to work around floating point issues in JavaScript
@@ -52,7 +52,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript Integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
 
-## Personal Finance
+## Personal finance
 - [Budget](https://github.com/range-of-motion/budget) - a web application that helps you keep track of your finances
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags
 - [Mintable](https://github.com/kevinschaich/mintable) - automate your personal finances – for free, with no ads, and no data collection
@@ -62,13 +62,13 @@ A curated collection of open source fintech libraries and resources. This is not
 - [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest and politically exposed persons
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
-## Stock Data
+## Stock data
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
 
-## Subscriptions and Billing
+## Subscriptions and billing
 - [BoxBilling](https://github.com/boxbilling/boxbilling) - billing, client, and order management software designed to be easy-to-use for both clients and sellers
 - [Crater](https://github.com/bytefury/crater) - web and mobile app that helps freelancers and small businesses track expenses/payments and create professional invoices and estimates
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - invoice clients, facilitate payments, track time/tasks, handle expenses, and more (built with Laravel and Flutter)
