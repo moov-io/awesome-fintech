@@ -5,15 +5,15 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Table of contents
 - [Calculators](#calculators)
 - [Charts](#charts)
-- [Credit Card Forms](#credit-card-forms)
-- [Currency Handling](#currency-handling)
+- [Credit card forms](#credit-card-forms)
+- [Currency handling](#currency-handling)
 - [Education](#education)
 - [Icons](#icons)
 - [Integrations](#integrations)
-- [Personal Finance](#personal-finance)
+- [Personal finance](#personal-finance)
 - [Sanctions](#sanctions)
-- [Stock Data](#stock-data)
-- [Subscriptions and Billing](#subscriptions-and-billing)
+- [Stock data](#stock-data)
+- [Subscriptions and billing](#subscriptions-and-billing)
 - [Other](#other)
 
 ## Calculators
