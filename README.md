@@ -30,7 +30,7 @@ A curated collection of open source fintech libraries and resources. This is not
 
 ## Credit card forms
 - [Card](https://github.com/jessepollak/card) - a better credit card form in one line of code
-- [Payment](https://github.com/jessepollak/payment) - a jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers
+- [Payment](https://github.com/jessepollak/payment) - a jQuery-free general purpose library for building credit card forms, validating inputs, and formatting numbers
 
 ## Currency handling
 - [accounting](https://github.com/leekchan/accounting) - money and currency formatting for Golang
@@ -42,24 +42,24 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Education
 - [CryptoList](https://github.com/coinpride/CryptoList) - curated collection of blockchain and cryptocurrency resources
 - [deep-finance](https://github.com/sangyx/deep-finance) - datasets, papers, and books on AI and finance
-- [Fintech Dictionary](https://github.com/moov-io/terms-dictionary) - simple definitions of fintech terms and acronyms
+- [Fintech dictionary](https://github.com/moov-io/terms-dictionary) - simple definitions of fintech terms and acronyms
 
 ## Icons
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) - a sleek webfont featuring popular payment methods
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) - an SVG webfont full of payment system and ecommerce icons
 
 ## Integrations
-- [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript Integration for PayPal Button and PayPal Checkout
+- [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
 
 ## Personal finance
-- [Budget](https://github.com/range-of-motion/budget) - a web application that helps you keep track of your finances
-- [Firefly III](https://github.com/firefly-iii/firefly-iii) - a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags
-- [Mintable](https://github.com/kevinschaich/mintable) - automate your personal finances – for free, with no ads, and no data collection
-- [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending better without giving banking/financial info to a third party
+- [Budget](https://github.com/range-of-motion/budget) - a web application that helps you keep track of your finances by organizing and visualizing transactions
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - a self-hosted manager for personal finances to track expenses and income
+- [Mintable](https://github.com/kevinschaich/mintable) - automate personal finances without ads and data collection
+- [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Sanctions
-- [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest and politically exposed persons
+- [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest, and politically exposed persons
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
 ## Stock data
@@ -73,13 +73,13 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Crater](https://github.com/bytefury/crater) - web and mobile app that helps freelancers and small businesses track expenses/payments and create professional invoices and estimates
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - invoice clients, facilitate payments, track time/tasks, handle expenses, and more (built with Laravel and Flutter)
 - [Kill Bill](https://github.com/killbill/killbill) - an SaaS-like subscription management and billing solution with real-time analytics and financial reports
-- [Manta](https://github.com/hql287/Manta) - flexible invoicing desktop app with beautiful and customizable templates
+- [Manta](https://github.com/hql287/Manta) - flexible invoicing desktop app with diverse and customizable templates
 - [Recurly.js](https://github.com/recurly/recurly-js) - create subscriptions, process one-time transactions, and update customer billing information
 
 ## Other
 - [ach](https://github.com/moov-io/ach) - a reader, writer, and validator for Automated Clearing House (ACH) files
 - [Akaunting](https://github.com/akaunting/akaunting) - online accounting software designed for small businesses and freelancers
-- [Apache Fineract](https://github.com/apache/fineract) - a reliable, robust, and affordable core banking solution for financial institutions offering services to the world’s two billion underbanked and unbanked
+- [Apache Fineract](https://github.com/apache/fineract) - core banking solution for financial institutions offering services to the world’s two billion underbanked and unbanked
 - [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
