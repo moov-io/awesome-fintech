@@ -55,6 +55,7 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Personal finance
 - [Budget](https://github.com/range-of-motion/budget) - a web application that helps you keep track of your finances by organizing and visualizing transactions
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - a self-hosted manager for personal finances to track expenses and income
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - a web-based wealth management application to keep track of your financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions
 - [Mintable](https://github.com/kevinschaich/mintable) - automate personal finances without ads and data collection
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
