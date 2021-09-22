@@ -25,6 +25,7 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Charts
 - [amCharts](https://github.com/amcharts/amcharts4) - a simple and flexible drop-in data visualization solution
 - [finance-go](https://github.com/piquette/finance-go) - a financial markets data library implemented in Go
+- [FinTA](https://github.com/peerchemist/finta) a technical analysis of financial indicators implemented in Pandas
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - display financial data as an interactive chart on your web page without affecting loading speed and performance
 - [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) - charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
 
@@ -47,6 +48,7 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Icons
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) - a sleek webfont featuring popular payment methods
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) - an SVG webfont full of payment system and ecommerce icons
+- [Remix Icon](https://github.com/Remix-Design/RemixIcon) - set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
 
 ## Integrations
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
@@ -84,6 +86,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
+- [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
