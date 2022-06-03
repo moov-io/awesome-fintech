@@ -66,6 +66,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
 ## Stock data
+- [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
@@ -87,6 +88,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
+- [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
