@@ -66,7 +66,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
 ## Stock data
-- [GoFinance](https://github.com/aktau/gofinance?ref=fintastico.com) - Financial information retrieval and munging written in Go
+- [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
