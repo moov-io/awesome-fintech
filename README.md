@@ -57,7 +57,8 @@ A curated collection of open source fintech libraries and resources. This is not
 ## ISO853
 - [iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) - Node.js powered ISO8583 gateway implementation for banking/fintech POS systems communication
 - [JReactive-8583](https://github.com/kpavlov/jreactive-8583) - ISO8583 client and server built on top of excellent Netty asynchronous messaging framework with the help of j8583 for encoding/decoding
-- [moov-io/iso8583](https://github.com/moov-io/iso8583#moov-ioiso8583) - ISO 8583 message reader and writer in Go
+- [moov-io/iso8583](https://github.com/moov-io/iso8583) - ISO 8583 message reader and writer in Go
+- [moov-io/iso8583-connection](https://github.com/moov-io/iso8583-connection) - Connection package matching iso8583 requests and replies
 
 ## Personal finance
 - [Budget](https://github.com/range-of-motion/budget) - a web application that helps you keep track of your finances by organizing and visualizing transactions
