@@ -33,6 +33,11 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Card](https://github.com/jessepollak/card) - a better credit card form in one line of code
 - [Payment](https://github.com/jessepollak/payment) - a jQuery-free general purpose library for building credit card forms, validating inputs, and formatting numbers
 
+## Compliance
+- [fincen](https://github.com/moov-io/fincen) - A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
+- [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest, and politically exposed persons
+- [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
+
 ## Currency handling
 - [accounting](https://github.com/leekchan/accounting) - money and currency formatting for Golang
 - [accounting.js](https://github.com/openexchangerates/accounting.js) -  a tiny JavaScript library for number, money, and currency parsing/formatting
@@ -67,10 +72,6 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Mintable](https://github.com/kevinschaich/mintable) - automate personal finances without ads and data collection
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
-## Sanctions
-- [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest, and politically exposed persons
-- [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
-
 ## Stock data
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
@@ -94,6 +95,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
