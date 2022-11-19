@@ -1,4 +1,7 @@
-# Awesome Fintech
+# Iceberg  Fintech
+
+[![Deploy static content to Pages](https://github.com/IcebergVerse/awesome-fintech/actions/workflows/static.yml/badge.svg?branch=master)](https://github.com/IcebergVerse/awesome-fintech/actions/workflows/static.yml)
+
 
 A curated collection of open source fintech libraries and resources. This is not a complete list, so please feel free to submit a pull request adding a project with a short description! Actively maintained projects with great documentation are preferred.
 
