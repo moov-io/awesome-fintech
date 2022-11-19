@@ -1,4 +1,4 @@
-# Awesome Fintech
+# iceberg  Fintech
 
 A curated collection of open source fintech libraries and resources. This is not a complete list, so please feel free to submit a pull request adding a project with a short description! Actively maintained projects with great documentation are preferred.
 
