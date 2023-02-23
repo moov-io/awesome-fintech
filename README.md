@@ -27,6 +27,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [finance-go](https://github.com/piquette/finance-go) - a financial markets data library implemented in Go
 - [FinTA](https://github.com/peerchemist/finta) a technical analysis of financial indicators implemented in Pandas
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - display financial data as an interactive chart on your web page without affecting loading speed and performance
+- [perspective](https://github.com/finos/perspective) -  an interactive analytics and data visualization component especially well-suited for large and/or streaming datasets
 - [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) - charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
 
 ## Credit card forms
@@ -98,5 +99,6 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
+- [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
