@@ -27,6 +27,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [finance-go](https://github.com/piquette/finance-go) - a financial markets data library implemented in Go
 - [FinTA](https://github.com/peerchemist/finta) a technical analysis of financial indicators implemented in Pandas
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - display financial data as an interactive chart on your web page without affecting loading speed and performance
+- [perspective](https://github.com/finos/perspective) -  an interactive analytics and data visualization component especially well-suited for large and/or streaming datasets
 - [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) - charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
 
 ## Credit card forms
