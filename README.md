@@ -59,6 +59,7 @@ A curated collection of open source fintech libraries and resources. This is not
 ## Integrations
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
+- [hyperswitch.io](https://github.com/juspay/hyperswitch/) - is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
 
 ## ISO853
 - [iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) - Node.js powered ISO8583 gateway implementation for banking/fintech POS systems communication
