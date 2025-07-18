@@ -3,6 +3,7 @@
 A curated collection of open source fintech libraries and resources. This is not a complete list, so please feel free to submit a pull request adding a project with a short description! Actively maintained projects with great documentation are preferred.
 
 ## Table of contents
+- [Terminals](#terminals)
 - [Calculators](#calculators)
 - [Charts](#charts)
 - [Credit card forms](#credit-card-forms)
@@ -15,6 +16,9 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Stock data](#stock-data)
 - [Subscriptions and billing](#subscriptions-and-billing)
 - [Other](#other)
+
+## Terminals
+- [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) – Open-source Bloomberg alternative: AI-driven research, multi-asset analytics, portfolio tools, and real-time market data.
 
 ## Calculators
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
