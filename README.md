@@ -35,6 +35,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [perspective](https://github.com/finos/perspective) -  an interactive analytics and data visualization component especially well-suited for large and/or streaming datasets
 - [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) - charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib) - a library for animated data visualizations and data stories
+- [DXCharts Lite](https://github.com/devexperts/dxcharts-lite) - a modern solution for visualizing financial data with a wide variety of chart types. Originally developed as part of large tradings applications used by millions of users, DXcharts Lite has matured into an independent product
 
 ## Credit card forms
 - [Card](https://github.com/jessepollak/card) - a better credit card form in one line of code
