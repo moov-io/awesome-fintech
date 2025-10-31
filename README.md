@@ -25,6 +25,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [finance](https://github.com/marksweston/finance) - a library for financial calculations in Ruby
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - international sales tax calculator for Node
 - [py1040](https://github.com/b-k/py1040) - a U.S. personal income tax calculator
+- - [sip-calculator](https://github.com/jitu097/sip-calculator) - a JavaScript library for Systematic Investment Plan (SIP) calculations with support for compound interest, goal-based planning, and step-up SIPs
 
 ## Charts
 - [amCharts](https://github.com/amcharts/amcharts4) - a simple and flexible drop-in data visualization solution
