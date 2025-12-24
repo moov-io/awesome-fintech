@@ -22,6 +22,7 @@ A curated collection of open source fintech libraries and resources. This is not
 
 ## Calculators
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
+- [Calcmatic](https://calcmatic.app) - free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance
 - [finance](https://github.com/marksweston/finance) - a library for financial calculations in Ruby
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - international sales tax calculator for Node
 - [py1040](https://github.com/b-k/py1040) - a U.S. personal income tax calculator
