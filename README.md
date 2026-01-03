@@ -84,6 +84,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Stock data
+- [Vedika Astrology Finance API](https://vedika.io) - AI-powered Vedic astrology API for financial markets - provides muhurta timing, planetary transits, dasha periods, and market sentiment analysis via REST API
 - [Financial Data](https://financialdata.net/documentation) - Stock Market and Financial Data (API, Data Viewer, Excel Export)
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
