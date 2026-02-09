@@ -90,6 +90,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
+- [OilPriceAPI](https://www.oilpriceapi.com) - real-time and historical pricing data for oil, gas, and energy commodities
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
 
