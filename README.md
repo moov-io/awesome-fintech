@@ -113,7 +113,7 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
-- [RateAPI](https://api.rateapi.dev) - REST API and MCP server serving real interest rates from 1,400+ US credit unions, covering mortgages, auto loans, HELOCs, personal loans, and credit cards across 50 states with rates ranked by APR
+- [RateAPI](https://api.rateapi.dev) - REST API and MCP for real interest rates from all 50 states and 1,400+ US credit unions, covering mortgages, auto/personal loans, credit cards, etc.
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
