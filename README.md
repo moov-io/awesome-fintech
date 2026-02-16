@@ -30,7 +30,7 @@ A curated collection of open source fintech libraries and resources. This is not
 
 ## Charts
 - [amCharts](https://github.com/amcharts/amcharts4) - a simple and flexible drop-in data visualization solution
-- - [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
 - [finance-go](https://github.com/piquette/finance-go) - a financial markets data library implemented in Go
 - [FinTA](https://github.com/peerchemist/finta) a technical analysis of financial indicators implemented in Pandas
 - [Highcharts](https://github.com/highcharts/highcharts) - a Javascript charting framework used to create complex financial data dashboards
