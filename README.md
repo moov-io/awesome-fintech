@@ -1,6 +1,9 @@
 # Awesome Fintech
 
-A curated collection of open source fintech libraries and resources. This is not a complete list, so please feel free to submit a pull request adding a project with a short description! Actively maintained projects with great documentation are preferred.
+A curated collection of **open source fintech libraries and resources**. This is not a complete list,
+so please feel free to submit a pull request adding a project with a short description! Actively
+maintained projects with great documentation are preferred. Commercial projects can include a Github
+link to their source-available code for inclusion.
 
 ## Table of contents
 - [Terminals](#terminals)
@@ -22,7 +25,6 @@ A curated collection of open source fintech libraries and resources. This is not
 
 ## Calculators
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
-- [Calcmatic](https://calcmatic.app) - free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance
 - [finance](https://github.com/marksweston/finance) - a library for financial calculations in Ruby
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - international sales tax calculator for Node
 - [py1040](https://github.com/b-k/py1040) - a U.S. personal income tax calculator
@@ -30,7 +32,6 @@ A curated collection of open source fintech libraries and resources. This is not
 
 ## Charts
 - [amCharts](https://github.com/amcharts/amcharts4) - a simple and flexible drop-in data visualization solution
-- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
 - [finance-go](https://github.com/piquette/finance-go) - a financial markets data library implemented in Go
 - [FinTA](https://github.com/peerchemist/finta) a technical analysis of financial indicators implemented in Pandas
 - [Highcharts](https://github.com/highcharts/highcharts) - a Javascript charting framework used to create complex financial data dashboards
@@ -85,14 +86,11 @@ A curated collection of open source fintech libraries and resources. This is not
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Stock data
-- [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries
-- [Financial Data](https://financialdata.net/documentation) - Stock Market and Financial Data (API, Data Viewer, Excel Export)
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
-- [OilPriceAPI](https://www.oilpriceapi.com) - real-time and historical pricing data for oil, gas, and energy commodities
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
 
@@ -115,7 +113,6 @@ A curated collection of open source fintech libraries and resources. This is not
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
-- [RateAPI](https://api.rateapi.dev) - REST API and MCP for real interest rates from all 50 states and 1,400+ US credit unions, covering mortgages, auto/personal loans, credit cards, etc.
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
