@@ -103,6 +103,7 @@ link to their source-available code for inclusion.
 - [Recurly.js](https://github.com/recurly/recurly-js) - create subscriptions, process one-time transactions, and update customer billing information
 
 ## Other
+- [awesome-x402](https://github.com/xpaysh/awesome-x402) - a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
 - [ach](https://github.com/moov-io/ach) - a reader, writer, and validator for Automated Clearing House (ACH) files
 - [Akaunting](https://github.com/akaunting/akaunting) - online accounting software designed for small businesses and freelancers
 - [Apache Fineract](https://github.com/apache/fineract) - core banking solution for financial institutions offering services to the world’s two billion underbanked and unbanked
