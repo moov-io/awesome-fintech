@@ -117,3 +117,4 @@ link to their source-available code for inclusion.
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
+- [PolicyLayer](https://github.com/PolicyLayer/PolicyLayer) - non-custodial spending controls for AI agents handling crypto. Enforce spending limits, recipient whitelists, and kill switches without touching private keys. Drop-in SDK for any EVM wallet
