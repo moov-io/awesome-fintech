@@ -113,6 +113,7 @@ link to their source-available code for inclusion.
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
+- [PolicyLayer](https://github.com/PolicyLayer/PolicyLayer) - non-custodial spending controls for AI agents, enforcing transaction limits, recipient whitelists, and kill switches on crypto wallets
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
