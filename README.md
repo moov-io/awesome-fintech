@@ -86,14 +86,13 @@ link to their source-available code for inclusion.
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Stock data
-- [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
-- [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
+- [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
 
 ## Subscriptions and billing
