@@ -108,6 +108,7 @@ link to their source-available code for inclusion.
 - [Akaunting](https://github.com/akaunting/akaunting) - online accounting software designed for small businesses and freelancers
 - [Apache Fineract](https://github.com/apache/fineract) - core banking solution for financial institutions offering services to the world’s two billion underbanked and unbanked
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
+- [edgartools](https://github.com/dgunning/edgartools) - SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows
 - [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
