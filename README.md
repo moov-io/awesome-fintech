@@ -68,9 +68,10 @@ link to their source-available code for inclusion.
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon) - set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
 
 ## Integrations
+- [hyperswitch.io](https://github.com/juspay/hyperswitch/) - is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
-- [hyperswitch.io](https://github.com/juspay/hyperswitch/) - is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
+- [upi-intent](https://github.com/shambu2k/upi-intent) - Framework-agnostic JS/TS library for generating UPI app-specific deep links with Android and iOS fallbacks.
 
 ## ISO853
 - [iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) - Node.js powered ISO8583 gateway implementation for banking/fintech POS systems communication
