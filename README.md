@@ -61,6 +61,7 @@ link to their source-available code for inclusion.
 - [CryptoList](https://github.com/coinpride/CryptoList) - curated collection of blockchain and cryptocurrency resources
 - [deep-finance](https://github.com/sangyx/deep-finance) - datasets, papers, and books on AI and finance
 - [Fintech dictionary](https://github.com/moov-io/terms-dictionary) - simple definitions of fintech terms and acronyms
+- [KeepRule](https://keeprule.com/) - a curated library of decision-making principles and investment wisdom from masters like Buffett, Munger, and Dalio
 
 ## Icons
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) - a sleek webfont featuring popular payment methods
