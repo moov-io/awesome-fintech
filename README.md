@@ -25,6 +25,7 @@ link to their source-available code for inclusion.
 
 ## Calculators
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
+- [Calculator Money](https://calculatormoney.com) - free financial calculators for loans, mortgages, savings, and investments with easy-to-use interface
 - [finance](https://github.com/marksweston/finance) - a library for financial calculations in Ruby
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - international sales tax calculator for Node
 - [py1040](https://github.com/b-k/py1040) - a U.S. personal income tax calculator
