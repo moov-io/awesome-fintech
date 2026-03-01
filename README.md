@@ -95,6 +95,7 @@ link to their source-available code for inclusion.
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
+- [free-crypto-price-api](https://github.com/OzorOwn/free-crypto-price-api) - Real-time prices for 275+ crypto assets via Hyperliquid. No authentication, no rate limits, free forever. Examples in Python, Node.js, curl.
 
 ## Subscriptions and billing
 - [BoxBilling](https://github.com/boxbilling/boxbilling) - billing, client, and order management software designed to be easy-to-use for both clients and sellers
