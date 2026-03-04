@@ -88,7 +88,7 @@ link to their source-available code for inclusion.
 
 ## Stock data
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
-- [free-crypto-price-api](https://github.com/OzorOwn/free-crypto-price-api) - Real-time prices for 275+ crypto assets via Hyperliquid, no auth or rate limits.
+- [free-crypto-price-api](https://github.com/OzorOwn/free-crypto-price-api) - Real-time prices for 275+ crypto assets via Hyperliquid, with no authentication or rate limits.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
