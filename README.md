@@ -22,6 +22,7 @@ link to their source-available code for inclusion.
 
 ## Terminals
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) – Open-source Bloomberg alternative: AI-driven research, multi-asset analytics, portfolio tools, and real-time market data.
+- [FinSight AI](https://github.com/kkkano/FinSight) – Multi-agent financial research platform with 7 specialized AI agents, professional dashboard, hybrid RAG, smart charts, and autonomous task execution, built on LangGraph.
 
 ## Calculators
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
