@@ -115,6 +115,7 @@ link to their source-available code for inclusion.
 - [go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [Gringotts](https://github.com/aviabird/gringotts) - a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
+- [NanoStack](https://api.nano-labs.io) - cross-chain execution API for native token swaps across 80+ chains
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
