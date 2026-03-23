@@ -121,3 +121,4 @@ link to their source-available code for inclusion.
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
+- [Fiducia](https://github.com/danweis07/Fiducia) - Open-source multi-tenant digital banking platform for credit unions and community banks. MIT licensed.
