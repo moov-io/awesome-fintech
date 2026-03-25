@@ -54,6 +54,7 @@ link to their source-available code for inclusion.
 ## Currency handling
 - [accounting](https://github.com/leekchan/accounting) - money and currency formatting for Golang
 - [accounting.js](https://github.com/openexchangerates/accounting.js) -  a tiny JavaScript library for number, money, and currency parsing/formatting
+- [Coinnect](https://github.com/coinnect-dev/coinnect) - an open-source money transfer routing engine that finds the cheapest multi-hop paths across fiat, crypto, and P2P networks using Dijkstra over 29K+ live edges
 - [currency.js](https://github.com/scurker/currency.js/) - a lightweight library for handling currency values and built to work around floating point issues in JavaScript
 - [Dinero.js](https://github.com/dinerojs/dinero.js) - an immutable library and API to create, calculate, and format monetary values
 - [Open Exchange Rates](https://github.com/wjcrowcroft/open-exchange-rates) - a real-time JSON API that provides exchange rates (forex/fx rates) for 150+ currencies, relative to USD
