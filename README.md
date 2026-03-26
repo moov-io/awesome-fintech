@@ -1,9 +1,10 @@
 # Awesome Fintech
 
 A curated collection of **open source fintech libraries and resources**. This is not a complete list,
-so please feel free to submit a pull request adding a project with a short description! Actively
-maintained projects with great documentation are preferred. Commercial projects can include a Github
-link to their source-available code for inclusion.
+so please feel free to submit a pull request adding a project with a short description! Projects must
+demonstrate real-world traction and usage, with a meaningful commit history (no weekend "vibe-coded"
+projects). Actively maintained projects with great documentation and established user bases are preferred.
+Commercial projects can include a Github link to their source-available code for inclusion.
 
 ## Table of contents
 - [Terminals](#terminals)
