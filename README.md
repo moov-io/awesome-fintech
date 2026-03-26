@@ -104,6 +104,7 @@ link to their source-available code for inclusion.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - invoice clients, facilitate payments, track time/tasks, handle expenses, and more (built with Laravel and Flutter)
 - [Kill Bill](https://github.com/killbill/killbill) - an SaaS-like subscription management and billing solution with real-time analytics and financial reports
 - [Manta](https://github.com/hql287/Manta) - flexible invoicing desktop app with diverse and customizable templates
+- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - self-hosted AI billing monitor for Stripe subscriptions — detects anomalies, tracks spend deviations, and sends alerts before bills spiral
 - [Recurly.js](https://github.com/recurly/recurly-js) - create subscriptions, process one-time transactions, and update customer billing information
 
 ## Other
