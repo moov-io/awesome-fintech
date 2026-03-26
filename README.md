@@ -47,7 +47,8 @@ link to their source-available code for inclusion.
 - [Payment](https://github.com/jessepollak/payment) - a jQuery-free general purpose library for building credit card forms, validating inputs, and formatting numbers
 
 ## Compliance
-- [fincen](https://github.com/moov-io/fincen) - A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
+- [AgentPass](https://agentpass.co.uk) - Trust scoring and AML sanctions screening for AI agent payments. Screens 75K+ entries (UK HMT + OFAC SDN) on every agent-initiated transaction.
+- [stripe-mcps](https://www.npmjs.com/package/stripe-mcps) - Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.- [fincen](https://github.com/moov-io/fincen) - A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
 - [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest, and politically exposed persons
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
