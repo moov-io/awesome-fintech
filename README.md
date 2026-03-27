@@ -98,6 +98,7 @@ Commercial projects can include a Github link to their source-available code for
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
+- [SEC EDGAR Insider Alerts API](https://rapidapi.com/lulzasaur9192/api/sec-edgar-insider-trades) - Real-time SEC Form 4 insider trading filings and alerts, filterable by ticker, CIK, insider name, and transaction type
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
 
 ## Subscriptions and billing
