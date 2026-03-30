@@ -91,6 +91,8 @@ Commercial projects can include a Github link to their source-available code for
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Stock data
+- [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier. [GitHub](https://github.com/coinpaprika)
+- [DexPaprika](https://api.dexpaprika.com) - Free DEX data API across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming. No API key needed. [GitHub](https://github.com/coinpaprika)
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
