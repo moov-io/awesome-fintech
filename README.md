@@ -51,6 +51,7 @@ Commercial projects can include a Github link to their source-available code for
 - [fincen](https://github.com/moov-io/fincen) - A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
 - [stripe-mcps](https://github.com/razashariff/stripe-mcps) - Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.
 - [OpenSanctions](https://github.com/pudo/opensanctions) - an open database of international sanctions data, persons of interest, and politically exposed persons
+- [Strale](https://github.com/strale-io/strale) - quality-scored compliance APIs for AI agents: sanctions screening, PEP checks, company lookups, and KYB verification
 - [Watchman](https://github.com/moov-io/watchman) - offers search functions over numerous trade sanction lists from the United States
 
 ## Currency handling
