@@ -124,4 +124,5 @@ Commercial projects can include a Github link to their source-available code for
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
+- [PredScope](https://predscope.com/) - free prediction market analytics platform tracking 1,000+ Polymarket events with live odds, market statistics, JSON APIs, and educational guides on prediction markets
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
