@@ -100,7 +100,6 @@ Commercial projects can include a Github link to their source-available code for
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
-- [PredScope](https://predscope.com) - free prediction market analytics platform tracking 1200+ Polymarket events with live odds, trading data, and a public REST API with no auth required
 
 ## Subscriptions and billing
 - [BoxBilling](https://github.com/boxbilling/boxbilling) - billing, client, and order management software designed to be easy-to-use for both clients and sellers
@@ -122,8 +121,8 @@ Commercial projects can include a Github link to their source-available code for
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) - distributed ledger framework for developing solutions and applications
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) - resource for learning test-driven development with Go
 - [Omnipay](https://github.com/thephpleague/omnipay)- payment processing library for PHP
+- [PredScope](https://github.com/prediction-lab) - free prediction market analytics API tracking 1,200+ events with real-time odds and no-auth REST endpoints at predscope.com/api
 - [pyfolio](https://github.com/quantopian/pyfolio) - portfolio and risk analytics in Python
 - [rtp-20022](https://github.com/moov-io/rtp20022) -  a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) - immutable, scalable, and easy to use ledger service
-- [PredScope](https://predscope.com/) - free prediction market analytics platform tracking 1,000+ Polymarket events with live odds, market statistics, JSON APIs, and educational guides on prediction markets
 - [XChange](https://github.com/knowm/XChange) - Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
