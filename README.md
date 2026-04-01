@@ -100,6 +100,7 @@ Commercial projects can include a Github link to their source-available code for
 - [TuShare](https://github.com/waditu/tushare) - a utility for crawling historical data of China stocks
 - [google-finance](https://github.com/hongtaocai/googlefinance) - Python module to get stock data from Google Finance
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo Finance
+- [PredScope](https://predscope.com) - free prediction market analytics platform tracking 1200+ Polymarket events with live odds, trading data, and a public REST API with no auth required
 
 ## Subscriptions and billing
 - [BoxBilling](https://github.com/boxbilling/boxbilling) - billing, client, and order management software designed to be easy-to-use for both clients and sellers
