@@ -108,7 +108,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Kill Bill](https://github.com/killbill/killbill) - an SaaS-like subscription management and billing solution with real-time analytics and financial reports
 - [Manta](https://github.com/hql287/Manta) - flexible invoicing desktop app with diverse and customizable templates
 - [Recurly.js](https://github.com/recurly/recurly-js) - create subscriptions, process one-time transactions, and update customer billing information
-
+- [MCP Server Stripe](https://github.com/theihtisham/mcp-server-stripe) - 35+ tools for Stripe API: customers, payments, subscriptions, disputes, and revenue analytics
 ## Other
 - [ach](https://github.com/moov-io/ach) - a reader, writer, and validator for Automated Clearing House (ACH) files
 - [Akaunting](https://github.com/akaunting/akaunting) - online accounting software designed for small businesses and freelancers
