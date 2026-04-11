@@ -75,6 +75,7 @@ Commercial projects can include a Github link to their source-available code for
 
 ## Integrations
 - [hyperswitch.io](https://github.com/juspay/hyperswitch/) - is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
+- [MONEI](https://monei.com/) - a European payment gateway (Banco de España #6911) with REST and GraphQL APIs for accepting cards, Bizum, PayPal, Apple Pay, Google Pay, and BNPL. Built on serverless architecture (AWS Startup Architecture Challenge winner). [Docs](https://docs.monei.com/) | [API Reference](https://docs.monei.com/apis/rest/)
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
 - [upi-intent](https://github.com/shambu2k/upi-intent) - Framework-agnostic JS/TS library for generating UPI app-specific deep links with Android and iOS fallbacks.
