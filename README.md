@@ -62,6 +62,7 @@ Commercial projects can include a Github link to their source-available code for
 - [currency.js](https://github.com/scurker/currency.js/) - a lightweight library for handling currency values and built to work around floating point issues in JavaScript
 - [Dinero.js](https://github.com/dinerojs/dinero.js) - an immutable library and API to create, calculate, and format monetary values
 - [Open Exchange Rates](https://github.com/wjcrowcroft/open-exchange-rates) - a real-time JSON API that provides exchange rates (forex/fx rates) for 150+ currencies, relative to USD
+- [MRC GlobalPay](https://mrcglobalpay.com) - Regulated Canadian MSB (C100000015) providing non-custodial cross-chain settlement rails and automated FX asset swaps with a machine-readable [AI manifest](https://mrcglobalpay.com/trading-bot-manifest.json).
 
 ## Education
 - [CryptoList](https://github.com/coinpride/CryptoList) - curated collection of blockchain and cryptocurrency resources
