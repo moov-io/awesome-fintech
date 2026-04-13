@@ -98,6 +98,7 @@ Commercial projects can include a Github link to their source-available code for
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
 - [fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) - Python SDK for macroeconomic indicators, central bank rates, FX spot rates, and release calendars covering 18+ currencies. Includes sync and async clients.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) – Live market data with AI-powered analysis and ML options pricing, available as an MCP server for AI assistants. (TypeScript)
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
