@@ -93,6 +93,8 @@ Commercial projects can include a Github link to their source-available code for
 - [OnTrack](https://github.com/inoda/ontrack) - a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
 
 ## Stock data
+- [coinpaprika-api-python-client](https://github.com/coinpaprika/coinpaprika-api-python-client) - Python client for the CoinPaprika API providing crypto market data for 12,000+ coins and 350+ exchanges with tickers, OHLCV, and historical prices
+- [dexpaprika-sdk-python](https://github.com/coinpaprika/dexpaprika-sdk-python) - Python SDK for the DexPaprika API providing DEX analytics across 34 blockchains with pool data, token metadata, OHLCV charts, and real-time streaming
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
 - [fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) - Python SDK for macroeconomic indicators, central bank rates, FX spot rates, and release calendars covering 18+ currencies. Includes sync and async clients.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
