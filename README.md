@@ -95,6 +95,7 @@ Commercial projects can include a Github link to their source-available code for
 ## Stock data
 - [fdnpy](https://github.com/financialdatanet/fdnpy) - Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
 - [GoFinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging written in Go
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Live stock, ETF, and crypto data with AI bull/bear analysis, price forecasts, ML options pricing, and news bias scoring across 5,000+ sources. Available as an MCP server for AI assistants
 - [Indicator Go](https://github.com/cinar/indicator) - Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) - TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) - display historical price graphs for any stock in your iOS app
