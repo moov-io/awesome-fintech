@@ -29,6 +29,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Accrue.js](https://github.com/jpederson/Accrue.js) - a loan and interest calculation plugin for jQuery
 - [finance](https://github.com/marksweston/finance) - a library for financial calculations in Ruby
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - international sales tax calculator for Node
+- [OpenAccountants](https://github.com/openaccountants/openaccountants) – Provides a multi-jurisdiction tax classification system with 371 skills across 134 countries for VAT/GST, income tax, and social contributions (Python)
 - [py1040](https://github.com/b-k/py1040) - a U.S. personal income tax calculator
 - [sip-calculator](https://github.com/jitu097/sip-calculator) - a JavaScript library for Systematic Investment Plan (SIP) calculations with support for compound interest, goal-based planning, and step-up SIPs
 
