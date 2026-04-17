@@ -69,6 +69,7 @@ Commercial projects can include a Github link to their source-available code for
 - [CryptoList](https://github.com/coinpride/CryptoList) – curated collection of blockchain and cryptocurrency resources
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) – distributed ledger framework for developing solutions and applications
 - [XChange](https://github.com/knowm/XChange) – Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
+- [cipher-layer-k](https://github.com/cryptomotifs/cipher-layer-k) – Python autonomous trading module for Solana with an 8-category confirmation matrix, IC-weighted ensemble scoring, eighth-Kelly position sizing, staged rollout, and a circuit breaker. MIT.
 
 ## Currency Handling
 - [accounting](https://github.com/leekchan/accounting) – money and currency formatting for Golang
