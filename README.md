@@ -88,6 +88,7 @@ Commercial projects can include a Github link to their source-available code for
 - [GoFinance](https://github.com/aktau/gofinance) – Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) – Python module to get stock data from Google Finance
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) – Live market data with AI-powered analysis and ML options pricing, available as an MCP server for AI assistants. (TypeScript)
+- [Pharos](https://github.com/TokenBrice/stablecoin-dashboard) – Open-source stablecoin analytics dashboard tracking peg stress, DEX liquidity, safety ratings, blacklist and freeze events, mint/burn flows, chain health, and failed stablecoins.
 - [Indicator Go](https://github.com/cinar/indicator) – Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) – display historical price graphs for any stock in your iOS app
