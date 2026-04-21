@@ -76,6 +76,7 @@ Commercial projects can include a Github link to their source-available code for
 - [currency.js](https://github.com/scurker/currency.js/) – a lightweight library for handling currency values and built to work around floating point issues in JavaScript
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – an immutable library and API to create, calculate, and format monetary values
 - [Open Exchange Rates](https://github.com/wjcrowcroft/open-exchange-rates) – a real-time JSON API that provides exchange rates (forex/fx rates) for 150+ currencies, relative to USD
+- [UniRateAPI](https://github.com/UniRate-API/unirate-api-python) – a real-time JSON API providing exchange rates for 170+ currencies including crypto, with historical data and VAT rates; official Python and Node clients
 
 ## Data & Market Intelligence
 - [coinpaprika-api-python-client](https://github.com/coinpaprika/coinpaprika-api-python-client) – Python client for the CoinPaprika API providing crypto market data for 12,000+ coins and 350+ exchanges with tickers, OHLCV, and historical prices
