@@ -65,6 +65,8 @@ Commercial projects can include a Github link to their source-available code for
 - [Watchman](https://github.com/moov-io/watchman) – offers search functions over numerous trade sanction lists from the United States
 
 ## Cryptocurrency & Blockchain
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
 - [Coinnect](https://github.com/coinnect-dev/coinnect) – an open-source money transfer routing engine that finds the cheapest multi-hop paths across fiat, crypto, and P2P networks using Dijkstra over 29K+ live edges
 - [CryptoList](https://github.com/coinpride/CryptoList) – curated collection of blockchain and cryptocurrency resources
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric) – distributed ledger framework for developing solutions and applications
