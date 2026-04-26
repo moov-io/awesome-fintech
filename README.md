@@ -1,137 +1,163 @@
-# Awesome Fintech
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of **open source fintech libraries and resources**. This is not a complete list,
-so please feel free to submit a pull request adding a project with a short description! Projects must
-demonstrate real-world traction and usage, with a meaningful commit history (no weekend "vibe-coded"
-projects). Actively maintained projects with great documentation and established user bases are preferred.
-Commercial projects can include a Github link to their source-available code for inclusion.
+Curated list of awesome Fintech startup companies. If you'd like to have a company added to the list, please submit a pull request.
 
-## Table of contents
-- [Accounting & Invoicing](#accounting--invoicing)
-- [Analytics & Visualization](#analytics--visualization)
-- [Banking & Ledger](#banking--ledger)
-- [Calculators & Tax](#calculators--tax)
-- [Compliance & Sanctions](#compliance--sanctions)
-- [Cryptocurrency & Blockchain](#cryptocurrency--blockchain)
-- [Currency Handling](#currency-handling)
-- [Data & Market Intelligence](#data--market-intelligence)
-- [Education & Resources](#education--resources)
-- [Forms & UI Components](#forms--ui-components)
-- [Integrations & Payments](#integrations--payments)
-- [ISO8583](#iso8583)
-- [Personal Finance](#personal-finance)
-- [Terminals & Dashboards](#terminals--dashboards)
+## Banking
 
-## Accounting & Invoicing
-- [Akaunting](https://github.com/akaunting/akaunting) – online accounting software designed for small businesses and freelancers
-- [BoxBilling](https://github.com/boxbilling/boxbilling) – billing, client, and order management software designed to be easy-to-use for both clients and sellers
-- [Crater](https://github.com/bytefury/crater) – web and mobile app that helps freelancers and small businesses track expenses/payments and create professional invoices and estimates
-- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) – invoice clients, facilitate payments, track time/tasks, handle expenses, and more (built with Laravel and Flutter)
-- [Kill Bill](https://github.com/killbill/killbill) – an SaaS-like subscription management and billing solution with real-time analytics and financial reports
-- [Manta](https://github.com/hql287/Manta) – flexible invoicing desktop app with diverse and customizable templates
+- [Column](https://column.com/) [B2B, [@columnbank](https://twitter.com/columnbank), [LinkedIn](https://www.linkedin.com/company/column-bank/), [Careers](https://column.com/careers)] - A Nationally Chartered bank for developers. Writing code since '19, powering companies since '22.
+- [Concerto](https://www.concertocard.com/) [B2B, [@ConcertoCC](https://twitter.com/ConcertoCC), [LinkedIn](https://www.linkedin.com/company/concerto-card-company/)] - A Premier Platform for Seamless Card Partnerships
+- [Cross River](https://crossriver.com/) [B2B, [@crossriverbank](https://twitter.com/crossriverbank), [LinkedIn](https://www.linkedin.com/company/cross-river-bank/), [Careers](https://crossriver.com/careers)] - Powering the future of financial services. We deliver innovative embedded payments, cards, lending and crypto solutions to millions of consumers and businesses.
+- [Dave](https://dave.com/) [B2C, [@davebanking](https://twitter.com/davebanking), [LinkedIn](https://www.linkedin.com/company/dave.com/), [Careers](https://jobs.lever.co/dave)] - Dave is the finance version of David and Goliath taking on the big banks and helping millions with money challenges.
+- [Earnin](https://www.earnin.com/) [B2C, [@earnin](https://twitter.com/earnin), [LinkedIn](https://www.linkedin.com/company/earnin/), [Careers](https://www.earnin.com/careers#open-jobs)] - Together, we’re building a financial system that puts people first.
+- [Evolve Bank & Trust](https://www.getevolved.com/) [B2B, [@getevolved1925](https://twitter.com/getevolved1925), [LinkedIn](https://www.linkedin.com/company/evolve-bank-&-trust/), [Careers](https://recruiting2.ultipro.com/EVO1002EVBT/JobBoard/5aea2b6d-bf7e-4cfc-8295-2498ec46f8b9/)] - Best-in-class, technology-focused financial services organization.
+- [Found](https://found.com/) [B2B, [@foundforbiz](https://twitter.com/foundforbiz), [LinkedIn](https://www.linkedin.com/company/foundforbusiness/), [Careers](https://found.com/careers)] - Discover how simple business banking can be.
+- [Fragment](https://fragment.dev/) [B2B, [@fragmentdev](https://twitter.com/fragmentdev), [LinkedIn](https://www.linkedin.com/company/fragmentdev/), [Careers](https://jobs.ashbyhq.com/fragment)] - Build a bulletproof fintech startup without hassling with accounting, ops, or infrastructure.
+- [Jar](https://www.myjar.app/careers) [B2C, [@JarAppHQ](https://x.com/JarAppHQ), [LinkedIn] (https://www.linkedin.com/company/jarapp/)] - A gold savings app to save money in 24k gold daily, weekly or monthly.
+- [Jassby](https://jassby.com/) [B2C, [@jassby_inc](https://twitter.com/jassby_inc), [LinkedIn](https://www.linkedin.com/company/jassby-inc/)] - The Debit Card and Financial Literacy App for Families.
+- [Jiko](https://jiko.io/) [B2B, [@teamjiko](https://twitter.com/teamjiko), [LinkedIn](https://www.linkedin.com/company/myjiko/), [Careers](https://jiko.bamboohr.com/jobs/)] - Welcome to the future of money storage
+- [Kasasa](https://www.kasasa.com) [B2B, [@Kasasa](https://twitter.com/Kasasa), [LinkedIn](https://www.linkedin.com/company/kasasa/), [Careers](https://www.kasasa.com/careers)] - A bank account you can brag about.
+- [Lili](https://lili.co/) [B2C, [@hellofromlili](https://twitter.com/hellofromlili), [LinkedIn](https://www.linkedin.com/company/hellofromlili/), [Careers](https://www.comeet.com/jobs/lili/A6.009)] - Banking designed for your business
+- [Mercury](https://mercury.com/) [B2B, [@BankMercury](https://twitter.com/BankMercury), [LinkedIn](https://www.linkedin.com/company/mercuryhq/), [Careers](https://mercury.com/jobs)] - Banking stack for startups
+- [MX](https://www.mx.com/) [B2B, [@mX](https://twitter.com/mX), [LinkedIn](https://www.linkedin.com/company/mxenabled/), [Careers](https://www.mx.com/company/#careers)] - MX is a fintech company that offers open banking, bank APIs, mobile banking, and more via modern connectivity and data enhancement.
+- [Plaid](https://plaid.com) [B2B, [@Plaid](https://twitter.com/Plaid), [LinkedIn](https://www.linkedin.com/company/plaid-/), [Careers](https://plaid.com/careers/)] - The safer way for people to connect financial accounts to an app
+- [Q2](https://www.q2.com/) [B2B, [@Q2_Software](https://twitter.com/Q2_Software), [LinkedIn](https://www.linkedin.com/company/q2software/), [Careers](https://q2ebanking.wd5.myworkdayjobs.com/Q2)] - Building strong, diverse communities by strengthening financial institutions with digital transformation solutions.
+- [Solid](https://www.solidfi.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/solidfi/), [Careers](https://jobs.ashbyhq.com/solid)] - Modern FinTech Infrastructure
+- [Step](https://www.step.com/) [B2C, [@step](https://twitter.com/step), [LinkedIn](https://www.linkedin.com/company/stepmobile/), [Careers](https://www.step.com/careers)] - 🙌 How Gen Z Does Money
+- [Synctera](https://synctera.com/) [B2B, [@synctera](https://twitter.com/synctera), [LinkedIn](https://www.linkedin.com/company/synctera/), [Careers](https://synctera.com/careers#grnhse_app)] - The Banking as a Service team helping people & companies launch financial products - accounts, cards, credit, lending, payments, and more 💳
+- [Synapse](https://synapsefi.com/) [B2B, [@synapsefi](https://twitter.com/synapsefi), [LinkedIn](https://www.linkedin.com/company/synapsepay/), [Careers](https://synapsefi.com/careers)] - The Launchpad for Financial Innovation
+- [Teller](https://teller.io/) [B2B, [@tellerapi](https://twitter.com/tellerapi), [LinkedIn](https://www.linkedin.com/company/teller-inc/), [Careers](https://jobs.lever.co/teller)] - Banking APIs for developers
+- [Treasury Prime](https://www.treasuryprime.com/) [B2B, [@treasuryprime](https://twitter.com/treasuryprime), [LinkedIn](https://www.linkedin.com/company/treasuryprime/), [Careers](https://www.treasuryprime.com/careers#open-positions)] - Treasury Prime powers innovation through embedded finance for growing fintechs and enterprises using its cutting edge API and growing network of partner banks.
+- [Twisp](https://www.twisp.com/) [B2B, [@twispdb](https://twitter.com/twispdb), [LinkedIn](https://www.linkedin.com/company/twispdb/)] - Twisp’s cloud-based financial data infrastructure helps engineering teams confidently build, compose, and scale core ledgers.
+- [Unit](https://www.unit.co/) [B2B, [@unit*co*](https://twitter.com/unit_co_), [LinkedIn](https://www.linkedin.com/company/unit-finance/), [Careers](https://www.unit.co/careers#jobs)] - Unit helps software companies build financial features into their products: accounts, cards, payments & lending.
 
-## Analytics & Visualization
-- [amCharts](https://github.com/amcharts/amcharts4) – a simple and flexible drop-in data visualization solution
-- [DXCharts Lite](https://github.com/devexperts/dxcharts-lite) – a modern solution for visualizing financial data with a wide variety of chart types. Originally developed as part of large tradings applications used by millions of users, DXcharts Lite has matured into an independent product
-- [FinTA](https://github.com/peerchemist/finta) – a technical analysis of financial indicators implemented in Pandas
-- [Highcharts](https://github.com/highcharts/highcharts) – a Javascript charting framework used to create complex financial data dashboards
-- [Lightweight Charts](https://github.com/tradingview/lightweight-charts) – display financial data as an interactive chart on your web page without affecting loading speed and performance
-- [perspective](https://github.com/finos/perspective) – an interactive analytics and data visualization component especially well-suited for large and/or streaming datasets
-- [pyfolio](https://github.com/quantopian/pyfolio) – portfolio and risk analytics in Python
-- [react-financial-charts](https://github.com/reactivemarkets/react-financial-charts) – charts dedicated to finance with multiple types, interactive indicators, overlays, and drawing objects
-- [Vizzu](https://github.com/vizzuhq/vizzu-lib) – a library for animated data visualizations and data stories
+## Capital Markets
 
-## Banking & Ledger
-- [ach](https://github.com/moov-io/ach) – a reader, writer, and validator for Automated Clearing House (ACH) files
-- [Apache Fineract](https://github.com/apache/fineract) – core banking solution for financial institutions offering services to the world's two billion underbanked and unbanked
-- [rtp-20022](https://github.com/moov-io/rtp20022) – a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
-- [Sequence](https://github.com/runopsio/sequence) – immutable, scalable, and easy to use ledger service
+- [13F Insight](https://13finsight.com/) [B2C] - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
+- [Alpaca](https://alpaca.markets/) [B2B, [@alpacahq](https://twitter.com/alpacahq), [LinkedIn](https://www.linkedin.com/company/alpacadb-inc-/), [Careers](https://alpaca.markets/hiring#alpaca-hiring)] - $0 commission API stock & crypto brokerage
+- [Apex Clearing](https://www.apexclearing.com/) [B2B, [@apexfintech](https://twitter.com/apexfintech), [LinkedIn](https://www.linkedin.com/company/apex-fintech/), [Careers](https://careers.peak6.com/all-openings#/)] - Clearing & custody APIs
+- [Cadre](https://cadre.com/) [B2C, [@cadrere](https://twitter.com/cadrere), [LinkedIn](https://www.linkedin.com/company/cadrere/), [Careers](https://boards.greenhouse.io/cadre) - Providing superior access and insight to the universe of alternative investments.
+- [CalcGuard Technologies](https://www.calcguard.com/) [B2B, [@CalcGuard](https://twitter.com/CalcGuard), [LinkedIn](https://www.linkedin.com/company/calcguard-technologies/)] - An unconflicted data & calcuation platform
+- [Copper](https://www.getcopper.com/) [B2C, [@CopperBanking](https://twitter.com/CopperBanking), [LinkedIn](https://www.linkedin.com/company/getcopper/), [Careers](https://www.getcopper.com/careers)] - Banking and Investing Built For Families
+- [DriveWealth](https://www.drivewealth.com/) [B2B, [@DriveWealth](https://twitter.com/DriveWealth), [LinkedIn](https://www.linkedin.com/company/drivewealth/), [Careers](https://www.drivewealth.com/company/careers/)] - Our API-driven brokerage infrastructure can power fractional investing experiences for anyone
+- [Passthrough](https://passthrough.com/) [B2B, [@PassthroughInc](https://x.com/PassthroughInc), [LinkedIn](https://www.linkedin.com/company/passthroughinc/), [Careers](https://passthrough.com/careers)] - Automate fund workflows from start to finish.
+- [Plenty](https://www.withplenty.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/withplenty/), [Careers](mailto:hello@withplenty.com)] - Plenty’s mission is to accelerate wealth building for those building towards wealth, but not there yet.
+- [Public.com](https://public.com/) [B2C, [@public](https://twitter.com/public), [LinkedIn](https://www.linkedin.com/company/publichello/), [Careers](https://public.com/careers)] - Invest in stocks, ETFs, and crypto.
+- [Strikes](https://www.trystrikes.com/) [B2C, [@StrikesApp](https://twitter.com/StrikesApp), [LinkedIn](https://www.linkedin.com/company/strikesapp/)] - Make well-informed options trading decisions & avoid mistakes
+- [Trumid](https://www.trumid.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/trumid/), [Careers](https://www.trumid.com/careers/)] - Fixed income trading platform
+- [Yieldstreet](https://www.yieldstreet.com/) [B2C, [@Yieldstreet](https://twitter.com/Yieldstreet), [LinkedIn](https://www.linkedin.com/company/yieldstreet-inc/), [Careers](https://jobs.lever.co/yieldstreet)] - Yieldstreet provides individuals with alternative investments in asset classes like art, real estate, legal and finance traditionally reserved for institutions.
+- [InvicTrade](https://invictrade.com) [B2C] - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 
-## Calculators & Tax
-- [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
-- [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
-- [go-finance](https://github.com/alpeb/go-finance) – Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
-- [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) – international sales tax calculator for Node
-- [OpenAccountants](https://github.com/openaccountants/openaccountants) – Provides a multi-jurisdiction tax classification system with 371 skills across 134 countries for VAT/GST, income tax, and social contributions (Python)
-- [py1040](https://github.com/b-k/py1040) – a U.S. personal income tax calculator
-- [sip-calculator](https://github.com/jitu097/sip-calculator) – a JavaScript library for Systematic Investment Plan (SIP) calculations with support for compound interest, goal-based planning, and step-up SIPs
+## Digital Assets & Blockchain
 
-## Compliance & Sanctions
-- [fincen](https://github.com/moov-io/fincen) – A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
-- [IBANforge](https://github.com/cammac-creator/ibanforge) – REST API and MCP server for IBAN validation (75+ countries, mod-97 checksum) and BIC/SWIFT lookup (121K+ entries from GLEIF). x402 micropayments, self-hostable via Docker.
-- [OpenRegistry](https://openregistry.sophymarine.com) — Free remote MCP server giving AI agents live access to 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, etc.). Built for KYC, UBO chain walks, and cross-border due diligence.
-- [OpenSanctions](https://github.com/pudo/opensanctions) – an open database of international sanctions data, persons of interest, and politically exposed persons
-- [stripe-mcps](https://github.com/razashariff/stripe-mcps) – Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.
-- [Strale](https://github.com/strale-io/strale) – quality-scored compliance APIs for AI agents: sanctions screening, PEP checks, company lookups, and KYB verification
-- [Watchman](https://github.com/moov-io/watchman) – offers search functions over numerous trade sanction lists from the United States
+- [Alchemy](https://www.alchemy.com/) [B2C, [@AlchemyPlatform](https://twitter.com/AlchemyPlatform), [LinkedIn](https://www.linkedin.com/company/alchemyinc/), [Careers](https://boards.greenhouse.io/alchemy)] - The leading web3 dev platform powering millions of users.
+- [Algorand](https://www.algorand.com/) [B2C, [@Algorand](https://twitter.com/Algorand), [LinkedIn](https://www.linkedin.com/company/algorand/), [Careers](https://www.algorand.com/about/careers/our-jobs)] - Algorand is unleashing scalability, fusing TradFi x DeFi, and accelerating global sustainability.
+- [Avalanche](https://www.avax.network/) [B2C, [@avalancheavax](https://twitter.com/avalancheavax)] - Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality
+- [Binance](https://www.binance.com) [B2C [@binance](https://twitter.com/binance), [LinkedIn](https://www.linkedin.com/company/binance/), [Careers](https://www.binance.com/en/careers/job-openings?team=All)] - The world’s leading blockchain ecosystem and digital asset exchange.
+- [Blockchain](https://www.blockchain.com/) [B2C, [@blockchain](https://twitter.com/blockchain), [LinkedIn](https://www.linkedin.com/company/blockchain/), [Careers](https://www.blockchain.com/careers)] - Buy, sell, swap, hold, earn, and trade crypto.
+- [BlockFi](https://blockfi.com/) [B2C, [@blockfi](https://twitter.com/blockfi), [LinkedIn](https://www.linkedin.com/company/blockfi/), [Careers](https://boards.greenhouse.io/blockfi)] - Buy, sell, and earn crypto.
+- [Blockdaemon](https://blockdaemon.com/) [B2B, [@BlockdaemonHQ](https://twitter.com/BlockdaemonHQ), [LinkedIn](https://www.linkedin.com/company/blockdaemon/), [Careers](https://blockdaemon.com/about/careers/)] - Stake, Scale, and Deploy nodes: Blockdaemon provides institutional grade blockchain infrastructure supporting 50+ cutting edge blockchain networks
+- [Bloq](https://www.bloq.com/) [B2C, [@bloqinc](https://twitter.com/bloqinc), [LinkedIn](https://www.linkedin.com/company/bloq-inc/)] - Bloq delivers managed infrastructure for building on blockchain networks
+- [Bottlepay](https://bottlepay.com/) [B2C, [@bottlepay](https://twitter.com/bottlepay), [LinkedIn](https://www.linkedin.com/company/bottlepay/), [Careers](https://bottlepay.com/jobs)] - Powered by the Lightning Network, we're on a mission to revolutionise the way people transact across the world
+- [CoinPaprika](https://coinpaprika.com/) [B2B/B2C, [@coinpaprika](https://twitter.com/coinpaprika), [LinkedIn](https://www.linkedin.com/company/coinpaprika/)] - Free crypto market data API for 12,000+ coins and 350+ exchanges. Also [DexPaprika](https://dexpaprika.com/) for DEX data across 34 blockchains.
+- [Coinbase](https://www.coinbase.com/) [B2C, [@coinbase](https://twitter.com/coinbase), [LinkedIn](https://www.linkedin.com/company/coinbase/), [Careers](https://www.coinbase.com/careers/positions)] - Crypto exchange
+- [Coinroutes](https://coinroutes.com/) [B2C, [@coinroutes](https://twitter.com/coinroutes), [LinkedIn](https://www.linkedin.com/company/coinroutes/), [Careers](https://coinroutes-inc.breezy.hr/)] - See the Market, Trade Smarter with our easy to use algorithmic platform that delivers the best performance commercially available.
+- [Crypto.com](https://crypto.com/) [B2C, [@cryptocom](https://twitter.com/cryptocom), [LinkedIn](https://www.linkedin.com/company/cryptocom/), [Careers](https://crypto.com/us/careers)] - The best place to buy, sell, and pay with crypto
+- [Harmony](https://www.harmony.one/) [B2C, [@harmonyprotocol](https://twitter.com/harmonyprotocol), [LinkedIn](https://www.linkedin.com/company/harmony-one/), [Careers](https://open.harmony.one/yearn-for-vast-and-endless-sea)] - Harmony is your open platform for assets, collectibles, identity, governance.
+- [Infura](https://infura.io/) [B2C, [@infura_io](https://twitter.com/infura_io), [LinkedIn](https://www.linkedin.com/company/infuraio/), [Careers](https://consensys.net/open-roles/?discipline=32536)] - The #1 toolkit for 400K+ blockchain developers.
+- [Kraken](https://www.kraken.com/) [B2C, [@krakenfx](https://twitter.com/krakenfx), [LinkedIn](https://www.linkedin.com/company/krakenfx/), [Careers](https://jobs.lever.co/kraken)] - The new Kraken app gives you the power to buy #Bitcoin & 50+ cryptocurrencies instantly.
+- [NYDIG](https://nydig.com/) [B2B, [@NYDIG_BTC](https://twitter.com/NYDIG_BTC), [LinkedIn](https://www.linkedin.com/company/nydig/), [Careers](https://boards.greenhouse.io/nydig)] - Freedom and opportunity through Bitcoin for all.
+- [Paxos](https://paxos.com/) [B2B, [@PaxosGlobal](https://twitter.com/PaxosGlobal), [LinkedIn](https://www.linkedin.com/company/paxos/), [Careers](https://paxos.com/careers/)] - Paxos is a regulated blockchain infrastructure company building transparent and transformative financial solutions.
+- [Pocket](https://www.pokt.network/) [B2C, [@POKTnetwork](https://twitter.com/POKTnetwork), [LinkedIn](https://www.linkedin.com/company/pocket-network/), [Careers](https://angel.co/company/pocket-network/jobs)] - Decentralized RPC protocol for ANY blockchain.
+- [Polygon](https://polygon.technology/) [B2C, [@0xPolygon](https://twitter.com/0xPolygon), [LinkedIn](https://www.linkedin.com/company/0xpolygon/), [Careers](https://polygon.technology/careers)] - Polygon believes in web3 for all & offers secure, fast, affordable & energy-efficient Ethereum scaling solutions for Web 3 devs
+- [QuickNode](https://www.quicknode.com/) [B2B, [@QuickNode](https://twitter.com/quicknode), [LinkedIn](https://www.linkedin.com/company/quicknode/), [Careers](https://jobs.lever.co/quicknode)] - Powering Web3 with industry-leading blockchain infrastructure
+- [Strike](https://strike.me/) [B2C, [@strike](https://twitter.com/strike), [LinkedIn](https://www.linkedin.com/company/joinstrike/), [Careers](https://strike.me/en/jobs)] - building a more connected financial world
+- [Worldcoin](https://worldcoin.org/) [B2C, [@worldcoin](https://twitter.com/worldcoin), [LinkedIn](https://www.linkedin.com/company/worldcoinfoundation/), [Careers](https://worldcoin.org/careers)] - Accelerating the transition towards a more inclusive and prosperous global economy.
 
-## Cryptocurrency & Blockchain
-- [Coinnect](https://github.com/coinnect-dev/coinnect) – an open-source money transfer routing engine that finds the cheapest multi-hop paths across fiat, crypto, and P2P networks using Dijkstra over 29K+ live edges
-- [CryptoList](https://github.com/coinpride/CryptoList) – curated collection of blockchain and cryptocurrency resources
-- [Hyperledger Fabric](https://github.com/hyperledger/fabric) – distributed ledger framework for developing solutions and applications
-- [XChange](https://github.com/knowm/XChange) – Java library that provides a simple API for interacting with 60+ cryptocurrency exchanges, delivering a consistent interface for trading and accessing market data
+## Insurance
 
-## Currency Handling
-- [accounting](https://github.com/leekchan/accounting) – money and currency formatting for Golang
-- [accounting.js](https://github.com/openexchangerates/accounting.js) – a tiny JavaScript library for number, money, and currency parsing/formatting
-- [currency.js](https://github.com/scurker/currency.js/) – a lightweight library for handling currency values and built to work around floating point issues in JavaScript
-- [Dinero.js](https://github.com/dinerojs/dinero.js) – an immutable library and API to create, calculate, and format monetary values
-- [Open Exchange Rates](https://github.com/wjcrowcroft/open-exchange-rates) – a real-time JSON API that provides exchange rates (forex/fx rates) for 150+ currencies, relative to USD
+- [Clearcover](https://www.clearcover.com) [B2C, [@clearcover](https://twitter.com/clearcover), [LinkedIn](https://www.linkedin.com/company/clearcover-inc./), [Careers](https://clearcover.com/careers/)] - Affordable car insurance that’s smarter, faster and puts you in control.
+- [Corvus Insurance](https://www.corvusinsurance.com/) [B2B, [@CorvusInsurance](https://twitter.com/CorvusInsurance), [LinkedIn](https://www.linkedin.com/company/corvusinsurance/), [Careers](https://www.corvusinsurance.com/careers)] - Empowering commercial insurance brokers and policyholders to better predict and prevent loss through AI-driven Smart Commercial Insurance® policies
+- [Ethos](https://www.ethoslife.com/) [B2C, [@getEthosLife](https://twitter.com/getEthosLife), [LinkedIn](https://www.linkedin.com/company/ethoslife/), [Careers](https://www.ethoslife.com/careers/#careers)] - Ethos helps make getting life insurance faster and easier with an online application and cutting-edge data science.
+- [Hippo](https://www.hippo.com/) [B2C, [@hippo_insurance](https://twitter.com/hippo_insurance), [LinkedIn](https://www.linkedin.com/company/hippo-insurance/), [Careers](https://www.hippo.com/careers)] - Hippo is a whole new approach to homeowners insurance—simpler process, smarter coverage, up to 25% savings.
+- [Lemonade](https://www.lemonade.com/) [B2C, [@Lemonade_Inc](https://twitter.com/Lemonade_Inc), [LinkedIn](https://www.linkedin.com/company/lemonade-inc-/), [Careers](https://makers.lemonade.com/)] - Digital insurance built on social impact – for your stuff, home, family, pet, and car.
+- [Tint](https://www.tint.ai/) [B2B, [LinkedIn](https://www.linkedin.com/company/heytint/), [Careers](https://boards.greenhouse.io/tintai)] - Tint empowers tech platforms to offer intrinsic embedded insurance - protecting their users from inherent risks.
 
-## Data & Market Intelligence
-- [coinpaprika-api-python-client](https://github.com/coinpaprika/coinpaprika-api-python-client) – Python client for the CoinPaprika API providing crypto market data for 12,000+ coins and 350+ exchanges with tickers, OHLCV, and historical prices
-- [dexpaprika-sdk-python](https://github.com/coinpaprika/dexpaprika-sdk-python) – Python SDK for the DexPaprika API providing DEX analytics across 34 blockchains with pool data, token metadata, OHLCV charts, and real-time streaming
-- [edgartools](https://github.com/dgunning/edgartools) – SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows
-- [fdnpy](https://github.com/financialdatanet/fdnpy) – Access real-time and historical stock data, financial statements, ratios, insider trades, with global coverage of equities, ETFs, indices, derivatives, OTC and crypto.
-- [finance-go](https://github.com/piquette/finance-go) – a financial markets data library implemented in Go
-- [fredapi](https://github.com/mortada/fredapi) – Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
-- [fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) – Python SDK for macroeconomic indicators, central bank rates, FX spot rates, and release calendars covering 18+ currencies. Includes sync and async clients.
-- [GoFinance](https://github.com/aktau/gofinance) – Financial information retrieval and munging written in Go
-- [google-finance](https://github.com/hongtaocai/googlefinance) – Python module to get stock data from Google Finance
-- [Helium MCP](https://github.com/connerlambden/helium-mcp) – Live market data with AI-powered analysis and ML options pricing, available as an MCP server for AI assistants. (TypeScript)
-- [Pharos](https://github.com/TokenBrice/stablecoin-dashboard) – Open-source stablecoin analytics dashboard tracking peg stress, DEX liquidity, safety ratings, blacklist and freeze events, mint/burn flows, chain health, and failed stablecoins.
-- [Indicator Go](https://github.com/cinar/indicator) – Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
-- [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
-- [JCStockGraph](https://github.com/jconst/JCStockGraph) – display historical price graphs for any stock in your iOS app
-- [TuShare](https://github.com/waditu/tushare) – a utility for crawling historical data of China stocks
-- [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) – Python module to get stock data from Yahoo Finance
+## Lending & Credit
 
-## Education & Resources
-- [deep-finance](https://github.com/sangyx/deep-finance) – datasets, papers, and books on AI and finance
-- [Fintech dictionary](https://github.com/moov-io/terms-dictionary) – simple definitions of fintech terms and acronyms
-- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) – resource for learning test-driven development with Go
+- [Affirm](https://www.affirm.com/) [B2B, [@Affirm](https://twitter.com/Affirm), [LinkedIn](https://www.linkedin.com/company/affirm/), [Careers](https://www.affirm.com/careers#openings)] - Honest financial products that improve lives.
+- [Bloom Credit](https://www.bloomcredit.io/) [B2B, [@bloomcredit](https://twitter.com/bloomcredit), [LinkedIn](https://www.linkedin.com/company/bloomcredit/), [Careers](https://www.bloomcredit.io/about-us/careers)] - Launch lending products, report consumers' payments, and create innovative credit experiences using Bloom's API Platform.
+- [Bond](https://www.bond.tech/), [B2B, [@bondfintech](https://twitter.com/bondfintech), [LinkedIn](https://www.linkedin.com/company/bondfintech/), [Careers](https://boards.greenhouse.io/bondfinancialtechnologies)] - Accelerating the pace of financial innovation as the enterprise-grade platform for embedded finance.
+- [Esusu](https://esusurent.com/) [B2C, [@getesusu](https://twitter.com/getesusu), [LinkedIn](https://www.linkedin.com/company/esusu/), [Careers](https://esusurent.com/careers/)] - We report rental data to the credit bureaus to help renters build credit and owners maximize property performance.
+- [Figure](https://www.figure.com/) [B2C, [@figure](https://twitter.com/figure), [LinkedIn](https://www.linkedin.com/company/figuretechnologies/), [Careers](https://www.figure.com/careers)] - Transforming the financial services industry using blockchain - bringing speed, efficiency, and savings to both consumers and institutions.
+- [Flyhomes](https://www.flyhomes.com/) [B2C, [@RealFlyhomes](https://twitter.com/RealFlyHomes), [LinkedIn](https://www.linkedin.com/company/flyhomes/), [Careers](https://www.flyhomes.com/careers)] - We're a real estate company that reduces the stress of homebuying.
+- [Greenlight](https://greenlight.com/) [B2C, [@GreenlightCard](https://twitter.com/GreenlightCard), [LinkedIn](https://www.linkedin.com/company/greenlightcard/), [Careers](https://greenlight.com/careers/#careersDropdown)] - We’re the money app for families.
+- [January](https://www.january.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/januarytechnologies/), [Careers](https://www.january.com/careers/opportunities)] - Changing debt collection for good
+- [Jetty](https://www.jetty.com/) [B2C, [@jetty](https://twitter.com/jetty), [LinkedIn](https://www.linkedin.com/company/jetty./), [Careers](https://www.jetty.com/careers#open-roles)] - Jetty is the financial services platform on a mission to make renting a home more affordable and flexible.
+- [Kafene](https://kafene.com/) [B2C, [@leasewithkafene](https://twitter.com/leasewithkafene), [LinkedIn](https://www.linkedin.com/company/kafene/), [Careers](https://kafene.com/careers)] - Empowering flexible ownership
+- [LendingFront](https://lendingfront.com) [B2B, [@lendingfront1](https://twitter.com/lendingfront1), [LinkedIn](https://www.linkedin.com/company/lendingfront-inc/)] - LendingFront is a white-labeled lending technology platform for banks, credit unions, alternative lenders, merchant processors, and CDFIs.
+- [Peach](https://www.peachfinance.com/) [B2B, [@PeachFinance](https://twitter.com/PeachFinance), [LinkedIn](https://www.linkedin.com/company/peach-finance/), [Careers](https://www.peachfinance.com/careers#openings)] - Peach is a cloud-native lending technology platform that helps lenders quickly launch and confidently scale new lending products.
+- [Petal](https://www.petalcard.com/) [B2C, [@petal](https://twitter.com/petal), [LinkedIn](https://www.linkedin.com/company/petalcard/), [Careers](https://jobs.lever.co/petalcard)] - Designed to help build credit.
+- [Pipe](https://pipe.com/) [B2B, [@pipe](https://twitter.com/pipe), [LinkedIn](https://www.linkedin.com/company/pipetechnologies/), [Careers](https://pipe.com/careers#open-roles)] - Grow on your terms.
+- [Ribbon](https://www.ribbonhome.com/) [B2C, [@ribbonhome](https://twitter.com/ribbonhome), [LinkedIn](https://www.linkedin.com/company/ribbonhome/), [Careers](https://www.ribbonhome.com/careers)] - Making homeownership achievable.
+- [Self](https://www.self.inc/) [B2C, [@SelfCreditApp](https://twitter.com/SelfCreditApp), [LinkedIn](https://www.linkedin.com/company/self-financial/), [Careers](https://www.self.inc/careers#job-openings)] - Build credit. Build savings. Build dreams.
+- [Splash](https://www.splashfinancial.com/) [B2C, [@SplashFinancial](https://twitter.com/SplashFinancial), [LinkedIn](https://www.linkedin.com/company/splashfinancial/), [Careers](https://jobs.lever.co/splashfinancial)] - Our mission: Make people more powerful than their debt.
+- [Sunny Day Fund](https://sunnydayfund.com/) [B2SMB, [@sunnydayfund](https://twitter.com/sunnydayfund), [LinkedIn](https://www.linkedin.com/company/sunnydayfund/), [Careers](https://sunnydayfund.com/careers/)] - We enable companies to cultivate financial security and freedom in their workforce, starting with incentivized savings.
 
-## Forms & UI Components
-- [Card](https://github.com/jessepollak/card) – a better credit card form in one line of code
-- [Payment](https://github.com/jessepollak/payment) – a jQuery-free general purpose library for building credit card forms, validating inputs, and formatting numbers
-- [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) – a sleek webfont featuring popular payment methods
-- [payment-webfont](https://github.com/orlandotm/payment-webfont) – an SVG webfont full of payment system and ecommerce icons
-- [Remix Icon](https://github.com/Remix-Design/RemixIcon) – set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
+## Payments & Billing
 
-## Integrations & Payments
-- [API Factory x402](https://github.com/Br0ski777/x402-agent-tools) – 100 x402 micropayment APIs for AI agents. USDC on Base.
-- [awesome-x402](https://github.com/xpaysh/awesome-x402) – a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
-- [Gringotts](https://github.com/aviabird/gringotts) – a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
-- [hyperswitch.io](https://github.com/juspay/hyperswitch/) – is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
-- [Omnipay](https://github.com/thephpleague/omnipay) – payment processing library for PHP
-- [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) – JavaScript integration for PayPal Button and PayPal Checkout
-- [react-native-payments](https://github.com/naoufal/react-native-payments) – for integrating payments like Apple Pay and Google Pay into your React Native app
-- [Recurly.js](https://github.com/recurly/recurly-js) – create subscriptions, process one-time transactions, and update customer billing information
-- [upi-intent](https://github.com/shambu2k/upi-intent) – Framework-agnostic JS/TS library for generating UPI app-specific deep links with Android and iOS fallbacks.
+- [BillGO](https://www.billgo.com/) [B2B, [@BillGOPayments](https://twitter.com/BillGOPayments), [LinkedIn](https://www.linkedin.com/company/billgopayments/), [Careers](https://www.billgo.com/join-us)] - BillGO facilitates a better financial future for everyone by combining the power of speed, choice and intelligence.
+- [Bolt](https://www.bolt.com/) [B2SMB, [@bolt](https://twitter.com/bolt), [LinkedIn](https://www.linkedin.com/company/bolt-com/), [Careers](https://www.bolt.com/careers/)] - We’re democratizing commerce
+- [Bread Financial](https://www.breadfinancial.com/) [B2B, [@BreadFinancial](https://twitter.com/BreadFinancial), [LinkedIn](https://www.linkedin.com/company/bread-financial/), [Careers](https://www.breadfinancial.com/en/who-we-are/careers.html)] - Bread Financial provides simple, personalized payment, lending and saving solutions
+- [Circle](https://www.circle.com/) [B2B, [@circlepay](https://twitter.com/circlepay), [LinkedIn](https://www.linkedin.com/company/circle-internet-financial/), [Careers](https://www.circle.com/en/careers)] - Circle helps businesses and developers harness the power of stablecoins for payments and internet commerce worldwide.
+- [Deposits.com](https://deposits.com) [B2B2C, [@deposits_com](https://twitter.com/deposits_com), [LinkedIn](https://www.linkedin.com/company/ondeposits/)] - Deposits.com provides low-code and no-code FinTech that enables anyone to launch, scale, and manage digital banking and payments for their community.
+- [Dwolla](https://www.dwolla.com/) [B2B, [@dwolla](https://twitter.com/dwolla), [LinkedIn](https://www.linkedin.com/company/dwolla/), [Careers](https://www.dwolla.com/careers/#jobs)] - Powering innovations with sophisticated account-to-account payment solutions.
+- [Finix](https://www.finixpayments.com/) [B2B, [@finix](https://twitter.com/finix), [LinkedIn](https://www.linkedin.com/company/finix-payments/), [Careers](https://www.finixpayments.com/careers/)] - From startups to publicly traded companies, Finix offers everything SaaS companies need to build a world-class payments experience.
+- [Gravy](https://www.gravysolutions.io/) [B2B, [@GravySolutions](https://twitter.com/GravySolutions), [LinkedIn](https://www.linkedin.com/company/gravysolutions/), [Careers](https://www.gravysolutions.io/careers)] - We're a done-for-you revenue recovery service! If you have recurring subscriptions, you're losing money due to failed payments! We can fix that!
+- [Lithic](https://lithic.com/) [B2B, [@lithic](https://twitter.com/lithic), [LinkedIn](https://www.linkedin.com/company/lithic/), [Careers](https://boards.greenhouse.io/lithic)] - Developer tools for modern card issuing
+- [Marqeta](https://www.marqeta.com/) [B2B, [@Marqeta](https://twitter.com/Marqeta), [LinkedIn](https://www.linkedin.com/company/marqeta/), [Careers](https://www.marqeta.com/company/careers/all-jobs)] - You see a card. We see endless possibilities.™
+- [Moov](https://moov.io) [B2B, [@moov](https://twitter.com/moov), [LinkedIn](https://www.linkedin.com/company/moov-io/), [Careers](https://moov.io/careers/#open-roles)] - Moov makes it easy for developers to accept, store, and disburse money.
+- [MONEI](https://monei.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/monei-digital-payments/)] - European Payment Institution (Banco de España #6911) providing a developer-first payment gateway with REST and GraphQL APIs. Supports cards, Bizum, PayPal, Apple Pay, Google Pay, and BNPL across Spain and Europe. Serverless architecture, MCP Server for AI-powered payment operations, and ECB Digital Euro pilot participant.
+- [Payrailz](https://www.payrailz.com/) [B2C, [@payrailz](https://twitter.com/payrailz), [LinkedIn](https://www.linkedin.com/company/payrailz/), [Careers](https://www.payrailz.com/careers/)] - Payrailz is a digital payments company offering advanced bill payment and money transfer solutions to banks and credit unions.
+- [Payrix](https://www.payrix.com/) [B2B, [@payrix](https://twitter.com/payrix), [LinkedIn](https://www.linkedin.com/company/payrix/), [Careers](https://www.indeed.com/cmp/Payrix-3/jobs)] - Software and payments experts. All-in-one. Unleash your possibilities.
+- [Quiltt](https://www.quiltt.io/) [B2B, [@QuilttFintech](https://twitter.com/QuilttFintech), [LinkedIn](https://www.linkedin.com/company/quiltt/), [Careers](https://quiltt.notion.site/Quiltt-is-Hiring-2b81dcdac2fb47249148d563ca5c53a4)] - Quiltt’s low-code platform empowers anyone to launch modern consumer fintech experiences, no backend required.
+- [Spade](https://www.spade.dev/), [B2B, [@Spadedata](https://twitter.com/Spadedata), [LinkedIn](https://www.linkedin.com/company/spadedata/), [Careers](https://boards.greenhouse.io/spade)] - Building the future of financial infrastructure.
+- [Stax](https://staxpayments.com/) [B2B, [@staxpayments](https://twitter.com/staxpayments), [LinkedIn](https://www.linkedin.com/company/staxpayments/), [Careers](https://apply.workable.com/fatt-merchant/#jobs)] - The Unicorns of Payments & Business Growth 🦄 Women Led
+- [Stripe](https://www.stripe.com) [B2SMB, [@stripe](https://twitter.com/stripe), [LinkedIn](https://www.linkedin.com/company/stripe/), [Careers](https://stripe.com/jobs/search)] - Stripe is a global technology company that builds economic infrastructure for the internet.
+- [Trolley](https://trolley.com/) [B2B, [@trolley_hq](https://twitter.com/trolley_hq), [LinkedIn](https://www.linkedin.com/company/trolleyhq/), [Careers](https://jobs.lever.co/trolley)] - Trolley is the payouts platform for the internet economy.
+- [Waiver Finance](https://www.waiverfinance.com/) [B2B, [@WaiverFinance](https://twitter.com/WaiverFinance), [LinkedIn](https://www.linkedin.com/company/waiverfinance/), [Careers](https://www.waiverfinance.com/jobs/)] - Payments infrastructure for the subscription economy.
+- [Willa](https://www.willapay.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/willacompany/), [Careers](https://careers.willapay.com/)] - Millions of freelancers suffer from late payments and worrying about money. ‍Willa gets them paid, on time, every time.
+- [Xendit](https://www.xendit.co/) [B2B, [@xendit_co](https://twitter.com/xendit_co), [LinkedIn](https://www.linkedin.com/company/xendit/), [Careers](https://www.xendit.co/en/careers/job-opening/)] - Xendit helps businesses accept payments and send money - simply, at speed, with great customer service.
 
-## ISO8583
-- [iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) – Node.js powered ISO8583 gateway implementation for banking/fintech POS systems communication
-- [JReactive-8583](https://github.com/kpavlov/jreactive-8583) – ISO8583 client and server built on top of excellent Netty asynchronous messaging framework with the help of j8583 for encoding/decoding
-- [moov-io/iso8583](https://github.com/moov-io/iso8583) – ISO 8583 message reader and writer in Go
-- [moov-io/iso8583-connection](https://github.com/moov-io/iso8583-connection) – Connection package matching iso8583 requests and replies
+## RegTech
 
-## Personal Finance
-- [Budget](https://github.com/range-of-motion/budget) – a web application that helps you keep track of your finances by organizing and visualizing transactions
-- [Firefly III](https://github.com/firefly-iii/firefly-iii) – a self-hosted manager for personal finances to track expenses and income
-- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) – a web-based wealth management application to keep track of your financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions
-- [Mintable](https://github.com/kevinschaich/mintable) – automate personal finances without ads and data collection
-- [OnTrack](https://github.com/inoda/ontrack) – a simple, self-hosted budgeting app to understand and control spending without giving banking/financial info to a third party
+- [Alloy](https://www.alloy.com/) [B2B, [@usealloy](https://twitter.com/usealloy), [LinkedIn](https://www.linkedin.com/company/alloy-apis/), [Careers](https://www.alloy.com/about/jobs#openings)] - Alloy is your command center for identity. Our platform connects you to 120+ data sources to cover your compliance and fraud-fighting needs.
+- [fraud.net](https://fraud.net/) [B2B, [@Fraud_net](https://twitter.com/Fraud_net), [LinkedIn](https://www.linkedin.com/company/fraud-net/), [Careers](https://fraud.net/jobs/)] - Fraud.net is an award-winning API-based, end-to-end fraud and risk management ecosystem.
 
-## Terminals & Dashboards
-- [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) – Open-source Bloomberg alternative: AI-driven research, multi-asset analytics, portfolio tools, and real-time market data.
-- [FinSight AI](https://github.com/kkkano/FinSight) – Multi-agent financial research platform with 7 specialized AI agents, professional dashboard, hybrid RAG, smart charts, and autonomous task execution, built on LangGraph.
+## Wealth Management
+
+- [Betterment](https://www.betterment.com/) [B2C, [@Betterment](https://twitter.com/Betterment), [LinkedIn](https://www.linkedin.com/company/betterment/), [Careers](https://www.betterment.com/careers/current-openings)] - Grow your money with easy automated investing and goal-based saving.
+- [GetFierce](https://www.getfierce.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/getfierce/about/)] - Unlock what is possible with Fierce by your side.
+- [NDVR](https://ndvr.com) [B2C, [@NDVRWealth](https://twitter.com/NDVRWealth), [LinkedIn](https://www.linkedin.com/company/ndvr-inc/), [Careers](https://app.ndvr.com/careers)] - Your wealth, optimized.
+- [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
+- [KeepRule](https://keeprule.com/) [B2C] - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
+
+## Personal Financial Management
+
+- [digit](https://digit.co/) [B2C, [@hellodigit](https://twitter.com/hellodigit), [LinkedIn](https://www.linkedin.com/company/digit-co/), [Careers](https://digit.co/careers)] - Healthy money, happy mind. Digit helps you do smart things with your money every day. Bank, budget, save and invest, effortlessly.
+- [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
+- [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
+- [SpendNode](https://www.spendnode.io/) [B2C] - Independent crypto card reviews, issuer coverage, country guides, and market updates.
+- [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
+- [PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
+
+## Business Financial Management
+
+- [Brex](https://www.brex.com/) [B2B, [@brexHQ](https://twitter.com/brexHQ), [LinkedIn](https://www.linkedin.com/company/brexhq/), [Careers](https://www.brex.com/careers/)] - We’re reimagining financial systems so every growing company can realize their full potential.
+- [Carta](https://carta.com/) [B2B, [@cartainc](https://twitter.com/cartainc), [LinkedIn](https://www.linkedin.com/company/carta--/), [Careers](https://boards.greenhouse.io/carta)] - We believe in the power of equity. We help companies, investors, and employees manage their equity—and help everyone learn how it works.
+- [OpenRegistry](https://openregistry.sophymarine.com) - Free remote MCP server proxying 27 national company registries directly (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, plus 21 more). Real-time queries; no aggregator middle layer.
+- [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
+- [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
