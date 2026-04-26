@@ -78,6 +78,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Open Exchange Rates](https://github.com/wjcrowcroft/open-exchange-rates) – a real-time JSON API that provides exchange rates (forex/fx rates) for 150+ currencies, relative to USD
 
 ## Data & Market Intelligence
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) – Cross-source stock sentiment API covering Reddit, X, News, and Polymarket with trending, compare, and source-level market context.
 - [coinpaprika-api-python-client](https://github.com/coinpaprika/coinpaprika-api-python-client) – Python client for the CoinPaprika API providing crypto market data for 12,000+ coins and 350+ exchanges with tickers, OHLCV, and historical prices
 - [dexpaprika-sdk-python](https://github.com/coinpaprika/dexpaprika-sdk-python) – Python SDK for the DexPaprika API providing DEX analytics across 34 blockchains with pool data, token metadata, OHLCV charts, and real-time streaming
 - [edgartools](https://github.com/dgunning/edgartools) – SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows
