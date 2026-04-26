@@ -85,6 +85,7 @@ Commercial projects can include a Github link to their source-available code for
 - [finance-go](https://github.com/piquette/finance-go) – a financial markets data library implemented in Go
 - [fredapi](https://github.com/mortada/fredapi) – Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) – Python SDK for macroeconomic indicators, central bank rates, FX spot rates, and release calendars covering 18+ currencies. Includes sync and async clients.
+- [tipo-cambio-peru](https://github.com/Edsoncame/tipo-cambio-peru) – TypeScript/ESM client for Peru's official exchange rate data (BCRP central bank, SBS banking regulator, SUNAT tax authority). Zero dependencies, MIT. Maintained by [Securex](https://securex.pe).
 - [GoFinance](https://github.com/aktau/gofinance) – Financial information retrieval and munging written in Go
 - [google-finance](https://github.com/hongtaocai/googlefinance) – Python module to get stock data from Google Finance
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) – Live market data with AI-powered analysis and ML options pricing, available as an MCP server for AI assistants. (TypeScript)
