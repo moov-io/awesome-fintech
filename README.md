@@ -46,7 +46,8 @@ Commercial projects can include a Github link to their source-available code for
 - [Apache Fineract](https://github.com/apache/fineract) – core banking solution for financial institutions offering services to the world's two billion underbanked and unbanked
 - [rtp-20022](https://github.com/moov-io/rtp20022) – a project offering Go structures which can read and write XML encoded ISO 20022 messages for RTP payments
 - [Sequence](https://github.com/runopsio/sequence) – immutable, scalable, and easy to use ledger service
-
+- [Precisa](https://precisa.in) - AI-powered bank statement analysis for fraud detection and credit underwriting. Supports 850+ banks across 25 countries with 97% fraud detection accuracy.
+- 
 ## Calculators & Tax
 - [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
 - [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
