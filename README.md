@@ -134,3 +134,5 @@ Commercial projects can include a Github link to their source-available code for
 ## Terminals & Dashboards
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) – Open-source Bloomberg alternative: AI-driven research, multi-asset analytics, portfolio tools, and real-time market data.
 - [FinSight AI](https://github.com/kkkano/FinSight) – Multi-agent financial research platform with 7 specialized AI agents, professional dashboard, hybrid RAG, smart charts, and autonomous task execution, built on LangGraph.
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — AI-native fintech: CLOB exchange, prediction markets, pre-launch TGE token trading on Base L2. 10 AI agents, on-chain settlement, MCP + A2A protocols. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) | [API](https://cymetica.com/api/docs)
