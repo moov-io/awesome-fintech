@@ -92,6 +92,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Indicator Go](https://github.com/cinar/indicator) – Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 - [JCStockGraph](https://github.com/jconst/JCStockGraph) – display historical price graphs for any stock in your iOS app
+- [Oracle3](https://github.com/YichengYang-Ethan/oracle3) – Autonomous prediction-market trading agent for Kalshi, Polymarket, and Solana featuring a Wang-transform pricing engine, arbitrage strategies, Kelly sizing, and on-chain execution via Jito bundles (Python)
 - [TuShare](https://github.com/waditu/tushare) – a utility for crawling historical data of China stocks
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) – Python module to get stock data from Yahoo Finance
 
