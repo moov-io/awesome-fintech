@@ -51,6 +51,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
 - [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
 - [go-finance](https://github.com/alpeb/go-finance) – Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
+- [mortgagemath](https://github.com/murraystokely/mortgagemath) – cent-accurate Python mortgage amortization schedules with Decimal arithmetic and 46 published-source validation fixtures
 - [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) – international sales tax calculator for Node
 - [OpenAccountants](https://github.com/openaccountants/openaccountants) – Provides a multi-jurisdiction tax classification system with 371 skills across 134 countries for VAT/GST, income tax, and social contributions (Python)
 - [py1040](https://github.com/b-k/py1040) – a U.S. personal income tax calculator
