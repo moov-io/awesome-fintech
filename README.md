@@ -136,3 +136,10 @@ Commercial projects can include a Github link to their source-available code for
 ## Terminals & Dashboards
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) – Open-source Bloomberg alternative: AI-driven research, multi-asset analytics, portfolio tools, and real-time market data.
 - [FinSight AI](https://github.com/kkkano/FinSight) – Multi-agent financial research platform with 7 specialized AI agents, professional dashboard, hybrid RAG, smart charts, and autonomous task execution, built on LangGraph.
+
+## Calculators
+
+- [Levyio](https://levyio.com/) — Free US tax calculators by state and city. 2026 IRS-aligned methodology.
+- [Amortio](https://www.amortio.com/) — Free mortgage calculators using Freddie Mac PMMS rate data.
+- [Salario](https://salario.io/) — Free US salary calculator by city × occupation, BLS OEWS data.
+
