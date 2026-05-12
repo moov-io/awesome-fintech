@@ -112,6 +112,7 @@ Commercial projects can include a Github link to their source-available code for
 ## Integrations & Payments
 - [API Factory x402](https://github.com/Br0ski777/x402-agent-tools) – 100 x402 micropayment APIs for AI agents. USDC on Base.
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) – a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
+- [Base Pay Desk](https://github.com/oskarasi/base-pay-desk-site) – static Base ETH checkout-link builder for creators, agencies, and service sellers, with visible seller/platform/buyer total math and a public GitHub Pages deployment
 - [Gringotts](https://github.com/aviabird/gringotts) – a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [hyperswitch.io](https://github.com/juspay/hyperswitch/) – is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
 - [Omnipay](https://github.com/thephpleague/omnipay) – payment processing library for PHP
