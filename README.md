@@ -113,8 +113,8 @@ Commercial projects can include a Github link to their source-available code for
 - [API Factory x402](https://github.com/Br0ski777/x402-agent-tools) – 100 x402 micropayment APIs for AI agents. USDC on Base.
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) – a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
 - [Gringotts](https://github.com/aviabird/gringotts) – a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
-- [hyperswitch.io](https://github.com/juspay/hyperswitch/) – is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
 - [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – A stateless, unified payment processing library with multi-language SDKs for integrating multiple payment processors, extracted from the Hyperswitch platform.
+- [Juspay Hyperswitch](https://github.com/juspay/hyperswitch/) – An open source and composable payment platform with PCI compliant SaaS and self-hosted optionality to connect with multiple payment providers and route payments intelligently.
 - [Omnipay](https://github.com/thephpleague/omnipay) – payment processing library for PHP
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) – JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) – for integrating payments like Apple Pay and Google Pay into your React Native app
