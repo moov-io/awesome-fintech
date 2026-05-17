@@ -110,7 +110,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon) – set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
 
 ## Integrations & Payments
-- [API Factory x402](https://github.com/Br0ski777/x402-agent-tools) – 100 x402 micropayment APIs for AI agents. USDC on Base.
+- [klymax402](https://klymax402.com) – 100 x402 micropayment APIs for AI agents (crypto, DeFi, B2B enrichment, SEO, security, utilities). Pay-per-call USDC on Base, no signup, MCP-ready.
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) – a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
 - [Gringotts](https://github.com/aviabird/gringotts) – a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – A stateless, unified payment processing library with multi-language SDKs for integrating multiple payment processors, extracted from the Hyperswitch platform.
