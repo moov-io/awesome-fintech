@@ -49,6 +49,7 @@ Commercial projects can include a Github link to their source-available code for
 
 ## Calculators & Tax
 - [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
+- [CalcFi Insights API](https://calcfi.app/api/insights/openapi.json) – Free, no-auth REST API for personal-finance calculator aggregates and primary-source macro data (FRED, BLS, IRS, Treasury, Freddie Mac). K-anonymized, CC BY 4.0, full CORS, OpenAPI 3.1 spec ([docs](https://calcfi.app/developers))
 - [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
 - [go-finance](https://github.com/alpeb/go-finance) – Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [mortgagemath](https://github.com/murraystokely/mortgagemath) – cent-accurate Python mortgage amortization schedules with Decimal arithmetic and 46 published-source validation fixtures
