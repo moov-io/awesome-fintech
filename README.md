@@ -49,6 +49,7 @@ Commercial projects can include a Github link to their source-available code for
 
 ## Calculators & Tax
 - [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
+- [eu-vat-rates-data](https://github.com/vatnode/eu-vat-rates-data) – machine-readable VAT rates for 44 European countries (standard, reduced, super-reduced, parking), auto-synced daily from the European Commission's TEDB; published to npm, PyPI, Packagist, RubyGems, and Go modules (MIT)
 - [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
 - [go-finance](https://github.com/alpeb/go-finance) – Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [mortgagemath](https://github.com/murraystokely/mortgagemath) – cent-accurate Python mortgage amortization schedules with Decimal arithmetic and 46 published-source validation fixtures
@@ -63,6 +64,7 @@ Commercial projects can include a Github link to their source-available code for
 - [OpenSanctions](https://github.com/pudo/opensanctions) – an open database of international sanctions data, persons of interest, and politically exposed persons
 - [stripe-mcps](https://github.com/razashariff/stripe-mcps) – Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.
 - [Strale](https://github.com/strale-io/strale) – quality-scored compliance APIs for AI agents: sanctions screening, PEP checks, company lookups, and KYB verification
+- [vatnode](https://vatnode.dev) – REST API for EU VAT number validation via VIES, returning the official VIES consultation number plus `checkId` and `verifiedAt` audit-trail fields for reverse-charge invoicing; national registry fallback for 8 EU countries when VIES is unavailable
 - [Watchman](https://github.com/moov-io/watchman) – offers search functions over numerous trade sanction lists from the United States
 
 ## Cryptocurrency & Blockchain
