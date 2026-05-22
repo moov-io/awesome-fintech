@@ -49,6 +49,7 @@ Commercial projects can include a Github link to their source-available code for
 
 ## Calculators & Tax
 - [Accrue.js](https://github.com/jpederson/Accrue.js) – a loan and interest calculation plugin for jQuery
+- [eu-vat-rates-data](https://github.com/vatnode/eu-vat-rates-data) – machine-readable VAT rates for 44 European countries (standard, reduced, super-reduced, parking), auto-synced daily from the European Commission's TEDB; published to npm, PyPI, Packagist, RubyGems, and Go modules (MIT)
 - [finance](https://github.com/marksweston/finance) – a library for financial calculations in Ruby
 - [go-finance](https://github.com/alpeb/go-finance) – Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds, and depreciation calculations
 - [mortgagemath](https://github.com/murraystokely/mortgagemath) – cent-accurate Python mortgage amortization schedules with Decimal arithmetic and 46 published-source validation fixtures
