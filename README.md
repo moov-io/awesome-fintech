@@ -64,7 +64,6 @@ Commercial projects can include a Github link to their source-available code for
 - [OpenSanctions](https://github.com/pudo/opensanctions) – an open database of international sanctions data, persons of interest, and politically exposed persons
 - [stripe-mcps](https://github.com/razashariff/stripe-mcps) – Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.
 - [Strale](https://github.com/strale-io/strale) – quality-scored compliance APIs for AI agents: sanctions screening, PEP checks, company lookups, and KYB verification
-- [vatnode](https://vatnode.dev) – REST API for EU VAT number validation via VIES, returning the official VIES consultation number plus `checkId` and `verifiedAt` audit-trail fields for reverse-charge invoicing; national registry fallback for 8 EU countries when VIES is unavailable
 - [Watchman](https://github.com/moov-io/watchman) – offers search functions over numerous trade sanction lists from the United States
 
 ## Cryptocurrency & Blockchain
