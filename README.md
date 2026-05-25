@@ -128,6 +128,10 @@ Commercial projects can include a Github link to their source-available code for
 - [moov-io/iso8583](https://github.com/moov-io/iso8583) – ISO 8583 message reader and writer in Go
 - [moov-io/iso8583-connection](https://github.com/moov-io/iso8583-connection) – Connection package matching iso8583 requests and replies
 
+## - [Kakunin](https://kakunin.ai) – X.509 cryptographic identity + behavioral monitoring for AI agents. Issues certificates via AWS KMS, scores behavioral events for risk, generates MiCA & EU AI Act compliance reports. REST API + Python SDK.
+  - [Docs](https://kakunin.ai/docs)
+  - [Samples](https://github.com/nqzai/kakunin-samples)
+
 ## Personal Finance
 - [Budget](https://github.com/range-of-motion/budget) – a web application that helps you keep track of your finances by organizing and visualizing transactions
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) – a self-hosted manager for personal finances to track expenses and income
