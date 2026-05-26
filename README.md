@@ -97,7 +97,7 @@ Commercial projects can include a Github link to their source-available code for
 - [Oracle3](https://github.com/YichengYang-Ethan/oracle3) – Autonomous prediction-market trading agent for Kalshi, Polymarket, and Solana featuring a Wang-transform pricing engine, arbitrage strategies, Kelly sizing, and on-chain execution via Jito bundles (Python)
 - [TuShare](https://github.com/waditu/tushare) – a utility for crawling historical data of China stocks
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) – Python module to get stock data from Yahoo Finance
-- [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) – Passive income analysis MCP server with live US Treasury rates, portfolio yield calculator, and AI income optimizer. Open endpoint, no auth required. x402 USDC micropayments for AI agent use. Also in the [official MCP Registry](https://registry.modelcontextprotocol.io/).
+- [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) – Passive income analysis MCP server featuring live US Treasury rates, a portfolio yield calculator, and AI-powered income optimization.
 
 ## Education & Resources
 - [deep-finance](https://github.com/sangyx/deep-finance) – datasets, papers, and books on AI and finance
