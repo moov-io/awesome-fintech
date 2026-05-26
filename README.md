@@ -61,7 +61,7 @@ Commercial projects can include a Github link to their source-available code for
 ## Compliance & Sanctions
 - [fincen](https://github.com/moov-io/fincen) – A Go library for reading and writing Fincen BSA forms. It is capable of generating, validating, and batching submissions.
 - [IBANforge](https://github.com/cammac-creator/ibanforge) – REST API and MCP server for IBAN validation (75+ countries, mod-97 checksum) and BIC/SWIFT lookup (121K+ entries from GLEIF). x402 micropayments, self-hostable via Docker.
-- [Komos Regulated Ops Playbooks](https://github.com/xuanli/komos-regulated-ops-playbooks) – Browser automation playbooks for CRA, FCRA, insurance eligibility, and banking operations, including JSON fixtures and evidence capture schemas.
+- [Komos Regulated Ops Playbooks](https://github.com/xuanli/komos-regulated-ops-playbooks) – Source-available browser automation examples for regulated ops, with fixtures and evidence schemas tied to Komos' public [background screening case study](https://www.komos.ai/solutions/background-screening).
 - [OpenSanctions](https://github.com/pudo/opensanctions) – an open database of international sanctions data, persons of interest, and politically exposed persons
 - [stripe-mcps](https://github.com/razashariff/stripe-mcps) – Cryptographic security layer for Stripe agent payments. Trust verification + sanctions screening before PaymentIntent execution.
 - [Strale](https://github.com/strale-io/strale) – quality-scored compliance APIs for AI agents: sanctions screening, PEP checks, company lookups, and KYB verification
