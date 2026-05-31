@@ -45,6 +45,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
+- [Tapetide MCP](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) – MCP server and API for Indian stock markets: search, screen & analyze all 8,200+ NSE/BSE stocks with quotes, financials, a 326-ratio screener, and FII/DII institutional flows.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
 
 ## Money, Currency & Formatting
