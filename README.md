@@ -21,6 +21,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PayPal Checkout Components](https://github.com/paypal/paypal-checkout-components) – Official JavaScript integration components for PayPal Buttons and Checkout experiences.
 - [React Native Payments](https://github.com/naoufal/react-native-payments) – Cross-platform library for adding Apple Pay and Google Pay to React Native applications.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
+- [eupago](https://github.com/bilouro/eupago-python) – First Python SDK for the eupago payment gateway (Portugal): MB WAY, Multibanco, credit cards, Pay By Link, refunds and webhooks. Sync + async, fully typed (mypy --strict).
 
 ## Banking Infrastructure
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
