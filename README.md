@@ -21,6 +21,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PayPal Checkout Components](https://github.com/paypal/paypal-checkout-components) – Official JavaScript integration components for PayPal Buttons and Checkout experiences.
 - [React Native Payments](https://github.com/naoufal/react-native-payments) – Cross-platform library for adding Apple Pay and Google Pay to React Native applications.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – MCP server for AI agent trust verification in Solana payment flows. Free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Paid: `get_trust_receipt` mints a signed V5 receipt via x402 USDC micropayment (<1s settlement). Zero-install: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 ## Banking Infrastructure
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
