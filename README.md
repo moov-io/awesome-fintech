@@ -15,6 +15,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Payment UI Components](#payment-ui-components)
 
 ## Payments & Integrations
+- [CamerPay PHP SDK](https://github.com/camerpay/php-sdk) – Official PHP SDK for CamerPay, a Cameroon payment gateway supporting Mobile Money (Orange Money, MTN MoMo), cards and PayPal.
 - [Hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments orchestration platform supporting 100+ processors with intelligent routing and PCI compliance options.
 - [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – Stateless unified payment processing library with multi-language SDKs for integrating multiple processors.
 - [Omnipay](https://github.com/thephpleague/omnipay) – Framework-agnostic, multi-gateway payment processing library for PHP.
