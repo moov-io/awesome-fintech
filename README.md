@@ -39,6 +39,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 
 ## Financial Data & APIs
+- [StockEdge](https://web.stockedge.com/) – Financial market analytics and research platform providing data on equities, mutual funds, and derivatives.
 - [EDGAR Tools](https://github.com/dgunning/edgartools) – Python toolkit for SEC EDGAR filings: 13F holdings, 8-K events, fundamentals, and insider transactions.
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [Finance Go](https://github.com/piquette/finance-go) – Go library for financial markets data including stocks, quotes, and fundamentals.
