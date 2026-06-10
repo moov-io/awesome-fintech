@@ -46,6 +46,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
+- [The Stall](https://github.com/thebrierfox/the-stall) – Remote pay-per-call MCP server with 198 financial data capabilities (US/EU/APAC stock prices, forex rates, DeFi protocol analytics, options chains, earnings calendars, congressional trades, on-chain intelligence) via x402 micropayments on Base mainnet. Any HTTP client or AI agent pays per query in USDC — no SDK, no API keys.
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
