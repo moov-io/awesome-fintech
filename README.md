@@ -43,10 +43,10 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [Finance Go](https://github.com/piquette/finance-go) – Go library for financial markets data including stocks, quotes, and fundamentals.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) – Real-time news with 37-dimension bias scoring, ML options pricing, and live market data.
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
-- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
