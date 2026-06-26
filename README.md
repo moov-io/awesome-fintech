@@ -67,7 +67,10 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Card](https://github.com/jessepollak/card) – Minimal, beautiful credit card form component that works in a single line of code.
 - [Payment](https://github.com/jessepollak/payment) – jQuery-free library for building, validating, and formatting credit card forms.
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) – Webfont containing icons for popular payment methods and card networks.
-- [payment-webfont](https://github.com/orlandotm/payment-webfont) – SVG webfont of payment system and ecommerce icons for web applications.
+- [payment-webfont](https://github.com/orlandotm/payment-webfont) – SVG webfont of payment system and ecommerce icons for web applications.n.
+
+## Learning Resources
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Patterns for building software that handles money.
 
 ---
 
