@@ -46,6 +46,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
+- [open-banking.io](https://open-banking.io) – Certificate-free PSD2 open banking API for aggregating bank accounts across Europe and the UK, with a Rust CLI and self-hostable AIS gateway.
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
