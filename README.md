@@ -38,6 +38,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 
+- [VeraData](https://api.veradata.dev) – LATAM compliance API: sanctions screening against OFAC+UN+EU+UK (59,454 entries), KYB for CO/MX/BR/CL/PE (business registry + risk narrative), and real-time central bank rates (TRM, TIIE, Selic, UF, dólar blue). EU AI Act Art.12/13 audit trail. MCP-native, x402 micropayments.
 ## Financial Data & APIs
 - [EDGAR Tools](https://github.com/dgunning/edgartools) – Python toolkit for SEC EDGAR filings: 13F holdings, 8-K events, fundamentals, and insider transactions.
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
