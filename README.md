@@ -39,6 +39,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 
 ## Financial Data & APIs
+- [BDE Score](https://github.com/hbhqq9/bde-score) – Open-source multi-factor stock scoring API (0-100 composite score). Covers 74 stocks across US, HK, and A-Share markets with zero-signup REST API, shields.io badges, and GitHub Action.
 - [EDGAR Tools](https://github.com/dgunning/edgartools) – Python toolkit for SEC EDGAR filings: 13F holdings, 8-K events, fundamentals, and insider transactions.
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [Finance Go](https://github.com/piquette/finance-go) – Go library for financial markets data including stocks, quotes, and fundamentals.
