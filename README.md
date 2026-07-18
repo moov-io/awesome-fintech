@@ -43,6 +43,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [Finance Go](https://github.com/piquette/finance-go) – Go library for financial markets data including stocks, quotes, and fundamentals.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
+- [honest-signals](https://github.com/MarvinRey7879/honest-signals) – Python CLI and library that scores detected chart patterns against the pattern-free baseline for the same market and timeframe, reporting lift with cluster-robust confidence intervals.
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
