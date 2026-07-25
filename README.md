@@ -70,6 +70,8 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) – SVG webfont of payment system and ecommerce icons for web applications.
 
 ## Learning Resources
+
+- [My AI Investment OS](https://ordinarymantrying.com/tools/ai-invest-os.html) - Free 5-question diagnostic identifying your investing school (Index/Value/Growth/Trend) with 8-AI committee verdict and personalized Prompt Library. Includes 6 companion tools: DCA Simulator, Recovery Navigator, Dividend Engine, Kelly Master, Pyramid Builder, Portfolio Clarity. No login required.
 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Patterns for building software that handles money.
 
 ---
