@@ -21,6 +21,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PayPal Checkout Components](https://github.com/paypal/paypal-checkout-components) – Official JavaScript integration components for PayPal Buttons and Checkout experiences.
 - [React Native Payments](https://github.com/naoufal/react-native-payments) – Cross-platform library for adding Apple Pay and Google Pay to React Native applications.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
+- [Sanwo](https://github.com/Sanwohq/core) – Open source, provider-agnostic payment SDK with native implementations for React, Vue, Svelte, React Native, Flutter, iOS, and Android. Supports Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers.
 
 ## Banking Infrastructure
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
