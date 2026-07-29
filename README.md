@@ -46,6 +46,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
+- [EarningsCall](https://github.com/EarningsCall/earningscall-python) – Python SDK for earnings call transcripts, audio files, slide decks, and earnings calendar data for 9,000+ publicly traded companies. Includes speaker-level data, Q&A segmentation, and real-time webhook notifications.
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
