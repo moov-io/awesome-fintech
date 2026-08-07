@@ -29,6 +29,8 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [ISO 8583 Connection](https://github.com/moov-io/iso8583-connection) – Connection handling and request/reply matching for ISO 8583 in Go.
 - [Wire](https://github.com/moov-io/wire) – Parser and writer for FedWire funds service files used for high-value US dollar transfers.
 - [Fed](https://github.com/moov-io/fed) – Fuzzy lookup library for FedACH and FedWire ABA routing numbers and bank names.
+- [IBANTools](https://github.com/Simplify/ibantools) – TypeScript/JavaScript library for validation, creation, and extraction of IBAN, BBAN, and BIC/SWIFT numbers.
+- [schwifty](https://github.com/mdomke/schwifty) – Python library for parsing and validating IBANs and BICs with country-specific bank registry data.
 - [Metro 2](https://github.com/moov-io/metro2) – Parser and generator for Metro 2 consumer credit reporting files used by credit bureaus.
 - [JReactive-8583](https://github.com/kpavlov/jreactive-8583) – Netty-based ISO 8583 client and server for Java.
 - [ISO-8583 Socket Queue](https://github.com/juks/iso-8583-socket-queue) – Node.js ISO 8583 gateway for banking and POS system communication.
