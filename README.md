@@ -39,6 +39,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ## Compliance & Sanctions
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
+- [payday-super-checker](https://github.com/ryanduguid/payday-super-checker) – Check Australian superannuation contributions against the payday-super deadlines (in force from 1 July 2026) and estimate SG charge exposure on late ones.
 
 ## Financial Data & APIs
 - [EDGAR Tools](https://github.com/dgunning/edgartools) – Python toolkit for SEC EDGAR filings: 13F holdings, 8-K events, fundamentals, and insider transactions.
