@@ -47,6 +47,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
+- [Pakistan Mutual Funds API](https://github.com/saadsalmankhan/pakistan-mutual-funds-api) – Self-hosted scraper and REST API for Pakistani mutual fund NAVs, sourced from MUFAP's public Fund Directory.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
 
 ## Money, Currency & Formatting
