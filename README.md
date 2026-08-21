@@ -47,6 +47,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
+- [Statementproof](https://github.com/OrbitalKeyAi/statementproof) – Python CLI that extracts transactions from bank statement PDFs and verifies the result against the statement's own opening, closing and running balances, reporting which row fails to reconcile.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
 
 ## Money, Currency & Formatting
