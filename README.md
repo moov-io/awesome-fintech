@@ -48,6 +48,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
 - [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
 - [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
+- [SEC Form 4 API](https://documenter.getpostman.com/view/57719789/2sBYAsyCVM) – Normalized insider-trading transaction data (SEC Form 4) as JSON. Insider-buy cluster screening, event studies, and fintech side-project data feeds. Free tier + paid tiers.
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
