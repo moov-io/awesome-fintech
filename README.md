@@ -77,3 +77,5 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ---
 
 Contributions welcome. Submit PRs for actively maintained, high-traction open source projects that provide clear value to fintech developers building real financial infrastructure. Projects should have meaningful commit history beyond initial creation and demonstrate usage outside the original authors.
+
+- [Deep Blue Alpha](https://deepbluealpha.io) — Real-time Ethereum whale intelligence platform: 20,000+ wallets tracked, live DEX classification, free public API.
