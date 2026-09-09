@@ -56,6 +56,8 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
+- [SOC 2 for Fintech](https://traztech.ca/blog/how-to-get-soc-2-for-fintech) – Step-by-step guide to SOC 2 compliance for fintech companies.
+- [PCI DSS for Fintech](https://traztech.ca/blog/how-to-get-pci-dss-for-fintech) – Guide to PCI DSS compliance for fintech companies handling payment data.
 
 ## Financial Data & APIs
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
