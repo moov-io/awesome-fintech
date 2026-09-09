@@ -56,6 +56,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [accounting](https://github.com/leekchan/accounting) – Money and currency formatting utilities for Go.
 
 ## Charts & Visualization
+- [DXcharts Lite](https://github.com/devexperts/dxcharts-lite) – Canvas-based financial charting library with 11+ chart types and 100+ technical indicators, built for high-volume trading platforms (MPL-2.0).
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) – High-performance, canvas-based interactive financial charts from TradingView (Apache 2.0).
 - [Perspective](https://github.com/perspective-dev/perspective) – Streaming analytics and data visualization component from FINOS, designed for large financial datasets.
 - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) – React components for financial charts with indicators, overlays, and drawing tools.
