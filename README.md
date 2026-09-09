@@ -4,6 +4,8 @@ A curated collection of **popular, well-maintained open source libraries and dev
 
 Projects must demonstrate meaningful adoption (stars, forks, contributors, or industry usage), active maintenance, clear open source licensing (Apache, MIT, AGPL, BSD, etc.), and practical utility for building payments, banking, compliance, data, and financial systems. No weekend projects, AI-agent experiments, personal finance apps, or cryptocurrency/blockchain tools.
 
+**This list is not for trading or market analysis.** Do not submit technical indicators, candlestick/OHLC or other market charts, backtesting frameworks, stock/quote APIs, quarterly reports, SEC filing scrapers, fundamentals, or similar investor-research tools. Those belong in quant/trading lists, not here.
+
 ## Table of Contents
 - [Payments & Integrations](#payments--integrations)
 - [Banking Infrastructure](#banking-infrastructure)
@@ -41,13 +43,8 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 
 ## Financial Data & APIs
-- [EDGAR Tools](https://github.com/dgunning/edgartools) – Python toolkit for SEC EDGAR filings: 13F holdings, 8-K events, fundamentals, and insider transactions.
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
-- [Finance Go](https://github.com/piquette/finance-go) – Go library for financial markets data including stocks, quotes, and fundamentals.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
-- [Indicator Go](https://github.com/cinar/indicator) – Go library of technical analysis indicators, strategies, and backtesting framework.
-- [Indicator TS](https://github.com/cinar/indicatorts) – TypeScript port of technical analysis indicators, strategies, and backtesting.
-- [TuShare](https://github.com/waditu/tushare) – Python utility for historical China equities market data (widely used in Asian quant workflows).
 
 ## Money, Currency & Formatting
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
@@ -56,9 +53,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [accounting](https://github.com/leekchan/accounting) – Money and currency formatting utilities for Go.
 
 ## Charts & Visualization
-- [Lightweight Charts](https://github.com/tradingview/lightweight-charts) – High-performance, canvas-based interactive financial charts from TradingView (Apache 2.0).
 - [Perspective](https://github.com/perspective-dev/perspective) – Streaming analytics and data visualization component from FINOS, designed for large financial datasets.
-- [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) – React components for financial charts with indicators, overlays, and drawing tools.
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib) – Library for animated data visualizations and data storytelling (useful for financial dashboards).
 
 ## Billing & Subscriptions
@@ -76,4 +71,4 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ---
 
-Contributions welcome. Submit PRs for actively maintained, high-traction open source projects that provide clear value to fintech developers building real financial infrastructure. Projects should have meaningful commit history beyond initial creation and demonstrate usage outside the original authors.
+Contributions welcome. Submit PRs for actively maintained, high-traction open source projects that provide clear value to fintech developers building real financial infrastructure. Projects should have meaningful commit history beyond initial creation and demonstrate usage outside the original authors. Trading, technical indicators, candlestick charts, quarterly reports, and market-analysis tools will be declined.
