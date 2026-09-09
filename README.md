@@ -20,27 +20,41 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments orchestration platform supporting 100+ processors with intelligent routing and PCI compliance options.
 - [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – Stateless unified payment processing library with multi-language SDKs for integrating multiple processors.
 - [Omnipay](https://github.com/thephpleague/omnipay) – Framework-agnostic, multi-gateway payment processing library for PHP.
+- [Payum](https://github.com/Payum/Payum) – PHP payment processing library covering cards, offsite purchasing, subscriptions, and payouts.
+- [Active Merchant](https://github.com/activemerchant/active_merchant) – Payment abstraction library extracted from Shopify, with a consistent Ruby API across many gateways.
 - [PayPal Checkout Components](https://github.com/paypal/paypal-checkout-components) – Official JavaScript integration components for PayPal Buttons and Checkout experiences.
 - [React Native Payments](https://github.com/naoufal/react-native-payments) – Cross-platform library for adding Apple Pay and Google Pay to React Native applications.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
+- [jPOS](https://github.com/jpos/jPOS) – Java payments platform for ISO 8583, ISO 20022, and EMV, used in production gateways and switches since 1998.
+- [Mojaloop](https://github.com/mojaloop/mojaloop) – Open source software for interoperable real-time payment platforms, used to build national switches and financial-inclusion rails.
 
 ## Banking Infrastructure
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
+- [Open Bank Project](https://github.com/OpenBankProject/OBP-API) – Open source REST API platform for banks supporting Open Banking, PSD2, XS2A, and Open Finance.
 - [ACH](https://github.com/moov-io/ach) – Reader, writer, and validator for NACHA Automated Clearing House (ACH) files used for US electronic payments.
 - [ISO 8583](https://github.com/moov-io/iso8583) – Go library for marshaling and unmarshaling ISO 8583 messages used in card and POS systems.
 - [ISO 8583 Connection](https://github.com/moov-io/iso8583-connection) – Connection handling and request/reply matching for ISO 8583 in Go.
 - [Wire](https://github.com/moov-io/wire) – Parser and writer for FedWire funds service files used for high-value US dollar transfers.
+- [Image Cash Letter](https://github.com/moov-io/imagecashletter) – Reader, writer, and validator for X9 Image Cash Letter (Check 21) files used in US check clearing.
 - [Fed](https://github.com/moov-io/fed) – Fuzzy lookup library for FedACH and FedWire ABA routing numbers and bank names.
+- [Prowide ISO 20022](https://github.com/prowide/prowide-iso20022) – Java parser and business model for ISO 20022 MX messages (pacs, camt, pain, and related sets).
+- [Prowide Core](https://github.com/prowide/prowide-core) – Java model and parsers for SWIFT MT (FIN) messages used in correspondent banking.
+- [iso20022.js](https://github.com/svapnil/iso20022.js) – TypeScript library to create ACH, SEPA, FedNow, SWIFT, and RTP payment initiations and process bank statements.
 - [IBANTools](https://github.com/Simplify/ibantools) – TypeScript/JavaScript library for validation, creation, and extraction of IBAN, BBAN, and BIC/SWIFT numbers.
 - [schwifty](https://github.com/mdomke/schwifty) – Python library for parsing and validating IBANs and BICs with country-specific bank registry data.
+- [iban4j](https://github.com/arturmkrtchyan/iban4j) – Java library for IBAN and BIC validation, parsing, and generation.
 - [Metro 2](https://github.com/moov-io/metro2) – Parser and generator for Metro 2 consumer credit reporting files used by credit bureaus.
 - [JReactive-8583](https://github.com/kpavlov/jreactive-8583) – Netty-based ISO 8583 client and server for Java.
 - [ISO-8583 Socket Queue](https://github.com/juks/iso-8583-socket-queue) – Node.js ISO 8583 gateway for banking and POS system communication.
+- [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle) – Financial transactions database designed for mission-critical safety and high throughput.
+- [Formance Ledger](https://github.com/formancehq/ledger) – Programmable open source ledger with atomic multi-posting transactions and a built-in DSL (Numscript).
+- [Blnk](https://github.com/blnkfinance/blnk) – Open source ledger and financial core for wallets, billing, and money-movement products.
 - [Sequence](https://github.com/hoophq/sequence) – Immutable, scalable ledger service suitable for financial transaction recording.
 
 ## Compliance & Sanctions
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
+- [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
 
 ## Financial Data & APIs
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
@@ -50,6 +64,10 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Dinero.js](https://github.com/dinerojs/dinero.js) – Immutable, chainable library for creating, calculating, and formatting monetary values (avoids floating point issues).
 - [accounting.js](https://github.com/openexchangerates/accounting.js) – Lightweight JavaScript library for number, money, and currency parsing/formatting (localizable, zero deps).
 - [currency.js](https://github.com/scurker/currency.js) – Lightweight JavaScript library for precise currency value handling and arithmetic.
+- [money](https://github.com/moneyphp/money) – PHP implementation of Fowler's Money pattern for precise monetary values and currency.
+- [Money](https://github.com/RubyMoney/money) – Ruby library for monetary values, formatting, and currency conversion.
+- [go-money](https://github.com/Rhymond/go-money) – Go implementation of Fowler's Money pattern for integer-based monetary amounts.
+- [Joda Money](https://github.com/JodaOrg/joda-money) – Java library for representing and calculating monetary amounts.
 - [accounting](https://github.com/leekchan/accounting) – Money and currency formatting utilities for Go.
 
 ## Charts & Visualization
@@ -59,10 +77,12 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ## Billing & Subscriptions
 - [Kill Bill](https://github.com/killbill/killbill) – Open source subscription management and billing platform with usage metering, invoicing, and real-time analytics.
 - [Lago](https://github.com/getlago/lago) – Open source metering, usage-based billing, and subscription management API with pricing, analytics, and payment orchestration.
+- [OpenMeter](https://github.com/openmeterio/openmeter) – Real-time usage metering and aggregation for usage-based billing of APIs and infrastructure.
 
 ## Payment UI Components
 - [Card](https://github.com/jessepollak/card) – Minimal, beautiful credit card form component that works in a single line of code.
 - [Payment](https://github.com/jessepollak/payment) – jQuery-free library for building, validating, and formatting credit card forms.
+- [card-validator](https://github.com/braintree/card-validator) – Validate card numbers, expiration dates, and CVV as users type (from Braintree).
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) – Webfont containing icons for popular payment methods and card networks.
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) – SVG webfont of payment system and ecommerce icons for web applications.
 
