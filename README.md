@@ -16,6 +16,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Billing & Subscriptions](#billing--subscriptions)
 - [Payment UI Components](#payment-ui-components)
 - [Learning Resources](#learning-resources)
+- [Related Awesome Lists](#related-awesome-lists)
 
 ## Payments & Integrations
 - [Active Merchant](https://github.com/activemerchant/active_merchant) – Payment abstraction library extracted from Shopify, with a consistent Ruby API across many gateways.
@@ -89,6 +90,13 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ## Learning Resources
 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Handbook of engineering patterns for building software that handles money and financial systems.
+
+## Related Awesome Lists
+- [Awesome Banking Tech](https://github.com/gtonic/awesome-banking-tech) – Curated list of bank engineering blogs, core systems, standards, and technology resources used in financial institutions.
+- [Awesome Billing](https://github.com/kdeldycke/awesome-billing) – Knowledge base for billing and payments covering invoicing, pricing, accounting, marketplaces, and fraud.
+- [Awesome Compliance](https://github.com/getprobo/awesome-compliance) – GRC resources for SOC 2, ISO 27001, SOX, PCI DSS, and related security and audit frameworks.
+- [Awesome Financial Crime](https://github.com/SKR-35/Awesome-Financial-Crime) – Tools, datasets, and resources for AML, fraud, sanctions screening, KYC/KYB, and financial crime compliance.
+- [Awesome PCI DSS](https://github.com/junhui/awesome-pci-dss) – PCI DSS standards, SAQs, implementation guidance, tooling, and training for protecting cardholder data.
 
 ---
 
