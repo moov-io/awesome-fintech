@@ -60,6 +60,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ## Financial Data & APIs
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
+- [HostDeFi](https://hostdefi.com/docs/api/) - Free keyless token-safety API: A+–F grades for Solana/EVM tokens, 100 checks/day per IP, no signup.
 
 ## Money, Currency & Formatting
 - [accounting](https://github.com/leekchan/accounting) – Go utilities for formatting monetary amounts and currencies in a locale-friendly way.
