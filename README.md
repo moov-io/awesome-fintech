@@ -45,6 +45,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [iso20022.js](https://github.com/svapnil/iso20022.js) – TypeScript library to create ACH, SEPA, FedNow, SWIFT, and RTP payment initiations and process bank statements.
 - [JReactive-8583](https://github.com/kpavlov/jreactive-8583) – Netty-based Java ISO 8583 client and server for connecting to card and POS networks.
 - [Metro 2](https://github.com/moov-io/metro2) – Parser and generator for Metro 2 consumer credit reporting files used by credit bureaus.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) – Zero-dependency library generating checksum-valid financial test data: IBAN (MOD-97), card numbers (Luhn), BIC/SWIFT, TCKN, ISIN, and more. CLI, Python SDK, REST API, and JMeter plugin.
 - [Open Bank Project](https://github.com/OpenBankProject/OBP-API) – Open source REST API platform for banks supporting Open Banking, PSD2, XS2A, and Open Finance.
 - [Prowide Core](https://github.com/prowide/prowide-core) – Java model and parsers for SWIFT MT (FIN) messages used in correspondent banking.
 - [Prowide ISO 20022](https://github.com/prowide/prowide-iso20022) – Java parser and business model for ISO 20022 MX messages (pacs, camt, pain, and related sets).
