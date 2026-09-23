@@ -76,6 +76,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ## Charts & Visualization
 - [Perspective](https://github.com/perspective-dev/perspective) – Streaming analytics and data visualization component from FINOS, designed for large financial datasets.
+- [SnapPChart](https://www.snappchart.app) – AI-powered chart screenshot analysis for stock, forex, crypto, and futures traders, grading trade setups with entry, stop, and target levels.
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib) – Library for animated data visualizations and data storytelling (useful for financial dashboards).
 
 ## Billing & Subscriptions
