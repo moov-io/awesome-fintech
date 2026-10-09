@@ -84,7 +84,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Lago](https://github.com/getlago/lago) – Open source metering, usage-based billing, and subscription management API with pricing, analytics, and payment orchestration.
 - [OpenMeter](https://github.com/openmeterio/openmeter) – Real-time usage metering and aggregation for usage-based billing of APIs and infrastructure.
 - [Rubrol](https://github.com/maxcomperatore/rubrol) – Rust-based Typst engine and sidecar for sub-millisecond receipt generation, PDF/A-3b hybrid invoices, and Factur-X compliance.
-- [Tanod Tools](https://github.com/tanod-labs/tanod-tools) – Open source, in-browser viewers for XRechnung, ZUGFeRD/Factur-X, FatturaPA and UBL e-invoices, plus bank-statement and PDF tools; files stay on the device.
+- [Tanod Tools](https://github.com/tanod-labs/tanod-tools) – Open source, in-browser viewers for XRechnung, ZUGFeRD/Factur-X, FatturaPA and UBL e-invoices, plus PDF and image tools; files stay on the device.
 
 ## Payment UI Components
 - [Card](https://github.com/jessepollak/card) – Minimal, beautiful credit card form component that works in a single line of code.
