@@ -80,6 +80,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib) – Library for animated data visualizations and data storytelling (useful for financial dashboards).
 
 ## Billing & Subscriptions
+- [Closure](https://github.com/disjointinc/closure) – Open source metering, entitlements, credit wallets, and versioned plans, with atomic real-time balance checks before each usage event.
 - [Kill Bill](https://github.com/killbill/killbill) – Open source subscription management and billing platform with usage metering, invoicing, and real-time analytics.
 - [Lago](https://github.com/getlago/lago) – Open source metering, usage-based billing, and subscription management API with pricing, analytics, and payment orchestration.
 - [OpenMeter](https://github.com/openmeterio/openmeter) – Real-time usage metering and aggregation for usage-based billing of APIs and infrastructure.
