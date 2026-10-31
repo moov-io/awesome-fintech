@@ -30,6 +30,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Payum](https://github.com/Payum/Payum) – PHP payment processing library covering cards, offsite purchasing, subscriptions, and payouts.
 - [React Native Payments](https://github.com/naoufal/react-native-payments) – Cross-platform library for adding Apple Pay and Google Pay to React Native applications.
 
+- [TapVow](https://github.com/theluckystrike/tapvow) – MIT-licensed local gateway that enforces a signed spend cap on every AI agent payment call and returns a verifiable x402 receipt, with a hash-chained ledger for audit.
 ## Banking Infrastructure
 - [ACH](https://github.com/moov-io/ach) – Reader, writer, and validator for NACHA Automated Clearing House (ACH) files used for US electronic payments.
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
