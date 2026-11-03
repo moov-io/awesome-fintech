@@ -56,11 +56,13 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ## Compliance & Sanctions
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
+- [Payment Continuity & UCC § 4A-502](https://github.com/GUIGUI19833/fintech-redirect) – Operational risk mitigation and statutory UCC § 4A-502 legal demand framework for payment processor dispute and reserve management.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 - [SOC 2 for Fintech](https://github.com/TrazTech-Inc/fintech-compliance-guides/blob/master/soc2-for-fintech.md) – Step-by-step guide to SOC 2 compliance for fintech companies.
 - [PCI DSS for Fintech](https://github.com/TrazTech-Inc/fintech-compliance-guides/blob/master/pci-dss-for-fintech.md) – Guide to PCI DSS compliance for fintech companies handling payment data.
 
+- [Payment Continuity & UCC § 4A-502](https://github.com/GUIGUI19833/fintech-redirect) – Operational risk mitigation and statutory UCC § 4A-502 legal demand framework for payment processor dispute and reserve management.
 ## Financial Data & APIs
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
