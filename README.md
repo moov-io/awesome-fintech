@@ -55,6 +55,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Wire](https://github.com/moov-io/wire) – Parser and writer for FedWire funds service files used for high-value US dollar transfers.
 
 ## Compliance & Sanctions
+- [Casework](https://github.com/anshuman-pandey/casework) – Self-hosted fraud and AML case-management developer preview with synthetic investigations, evidence review, decision history, and portable JSON records.
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
