@@ -57,6 +57,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ## Compliance & Sanctions
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
+- [US Restricted Parties](https://github.com/Mattbusel/us-restricted-parties) – Daily Senzing JSON Lines of US lists that are not in the CSL: DoD 1260H, UFLPA, FCC Covered List, and Section 889.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
 - [SOC 2 for Fintech](https://github.com/TrazTech-Inc/fintech-compliance-guides/blob/master/soc2-for-fintech.md) – Step-by-step guide to SOC 2 compliance for fintech companies.
 - [PCI DSS for Fintech](https://github.com/TrazTech-Inc/fintech-compliance-guides/blob/master/pci-dss-for-fintech.md) – Guide to PCI DSS compliance for fintech companies handling payment data.
