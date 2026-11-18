@@ -33,6 +33,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 ## Banking Infrastructure
 - [ACH](https://github.com/moov-io/ach) – Reader, writer, and validator for NACHA Automated Clearing House (ACH) files used for US electronic payments.
 - [Apache Fineract](https://github.com/apache/fineract) – Apache project providing core banking functionality used by financial institutions serving the underbanked.
+- [Aurigga ISO 20022 XML Validator](https://aurigga.com/tools/iso20022-validator.php) - Client-side browser validator for pacs.008, pain.001, and camt.053 messages with UAE IBAN MOD-97 checksum verification.
 - [Blnk](https://github.com/blnkfinance/blnk) – Open source ledger and financial core for wallets, billing, and money-movement products.
 - [Fed](https://github.com/moov-io/fed) – Fuzzy lookup library for FedACH and FedWire ABA routing numbers and bank names.
 - [Formance Ledger](https://github.com/formancehq/ledger) – Programmable open source ledger with atomic multi-posting transactions and a built-in DSL (Numscript).
@@ -52,6 +53,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [schwifty](https://github.com/mdomke/schwifty) – Python library for parsing and validating IBANs and BICs with country-specific bank registry data.
 - [Sequence](https://github.com/hoophq/sequence) – Immutable, scalable ledger service for recording financial transactions with strong auditability.
 - [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle) – Financial transactions database designed for mission-critical safety and high throughput.
+- [uae-fintech-tools](https://github.com/jaiaurigga-collab/uae-fintech-tools) - Open-source client-side browser utilities for UAE and GCC banking integrations, including WPS SIF generation, MX-to-MT conversion, and SWIFT MT parsing.
 - [Wire](https://github.com/moov-io/wire) – Parser and writer for FedWire funds service files used for high-value US dollar transfers.
 
 ## Compliance & Sanctions
