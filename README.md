@@ -56,6 +56,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ## Compliance & Sanctions
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
+- [OfacMatch](https://github.com/krunalsolanki/ofac-match) – OFAC SDN name screening that explains why each name matched; browser CSV tool, self-hosted REST API, Python and .NET clients.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
 - [US Restricted Parties](https://github.com/Mattbusel/us-restricted-parties) – Daily Senzing JSON Lines of US lists that are not in the CSL: DoD 1260H, UFLPA, FCC Covered List, and Section 889.
 - [Watchman](https://github.com/moov-io/watchman) – Search across US trade sanctions lists (OFAC, etc.) for compliance screening.
