@@ -55,6 +55,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Wire](https://github.com/moov-io/wire) – Parser and writer for FedWire funds service files used for high-value US dollar transfers.
 
 ## Compliance & Sanctions
+- [EU Sanctions Screen](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/eu-sanctions-screen) – Screens names, aliases and IDs against the live official EU Financial Sanctions File (DG FISMA), labelling fuzzy hits for manual review; MIT, Node.js.
 - [OpenSanctions](https://github.com/opensanctions/opensanctions) – Open database and tools for sanctions lists, politically exposed persons (PEP), and persons of interest used in KYC/AML.
 - [OfacMatch](https://github.com/krunalsolanki/ofac-match) – OFAC SDN name screening that explains why each name matched; browser CSV tool, self-hosted REST API, Python and .NET clients.
 - [python-stdnum](https://github.com/arthurdejong/python-stdnum) – Python library to parse, validate, and format standard numbers including IBAN, VAT IDs, and national identifiers.
