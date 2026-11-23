@@ -20,6 +20,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 
 ## Payments & Integrations
 - [Active Merchant](https://github.com/activemerchant/active_merchant) – Payment abstraction library extracted from Shopify, with a consistent Ruby API across many gateways.
+- [Builders in Fintech](https://buildersinfintech.ai) - Free fintech funding database and news: rounds, investors, licences, Funding Index; CC BY 4.0 data and an MCP connector.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
 - [Hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments orchestration platform supporting 100+ processors with intelligent routing and PCI compliance options.
 - [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – Stateless unified payment processing library with multi-language SDKs for integrating multiple processors.
