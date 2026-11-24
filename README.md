@@ -97,6 +97,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) – Webfont containing icons for popular payment methods and card networks.
 
 ## Learning Resources
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) – Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) covering authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants.
 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Handbook of engineering patterns for building software that handles money and financial systems.
 
 ## Related Awesome Lists
