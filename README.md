@@ -18,6 +18,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Learning Resources](#learning-resources)
 - [Related Awesome Lists](#related-awesome-lists)
 
+- [APUMIA Credit & IFRS 13 Rust Core](https://github.com) - NaN-free deterministic Rust credit risk & Basel III audit core, plus [APUMIA-BP-2026](https://github.com) 28-digit Decimal feasibility & SHA-256 Notary seal sandbox.
 ## Payments & Integrations
 - [Active Merchant](https://github.com/activemerchant/active_merchant) – Payment abstraction library extracted from Shopify, with a consistent Ruby API across many gateways.
 - [Gringotts](https://github.com/aviabird/gringotts) – Unified API for integrating dozens of payment gateways in Elixir/Phoenix applications.
