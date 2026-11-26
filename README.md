@@ -67,6 +67,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
 - [Level Open Finance](https://github.com/levelcfo/open-finance-skills) – MIT-licensed Node.js ESM accounting and financial close validation toolkit with 20 deterministic controllers (trial-balance footing, accrual cutoffs, AR/AP aging, payroll-to-GL reconciliation, cash-flow runway) and a read-only Model Context Protocol server ([docs](https://levelcfo.com/finance-systems/)).
+- [TaxRail](https://github.com/SamuelAguiar12/taxrail) – Pre-execution US (IRS 1099-DA, Form 8949, HIFO/SpecID, tax-loss harvesting) and Brazil (Lei 14.754, R$35k rule, Lucro Real) crypto, DeFi, and corporate tax-optimization engine with REST API, MCP server, and TypeScript/Python SDKs.
 
 ## Money, Currency & Formatting
 - [accounting](https://github.com/leekchan/accounting) – Go utilities for formatting monetary amounts and currencies in a locale-friendly way.
