@@ -64,6 +64,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PCI DSS for Fintech](https://github.com/TrazTech-Inc/fintech-compliance-guides/blob/master/pci-dss-for-fintech.md) – Guide to PCI DSS compliance for fintech companies handling payment data.
 
 ## Financial Data & APIs
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) – Apache-2.0 Python quantitative equity screening, red-flag filtering, purged walk-forward pattern verification, and read-only STDIO MCP server covering 7 equity markets (CN/US/HK/JP/KR/TW/IN) with a public live track record ([dashboard](https://alphasift.zhulinsen.tech/)).
 - [FRED API](https://github.com/mortada/fredapi) – Python client for Federal Reserve Economic Data (FRED) and ALFRED macroeconomic series.
 - [FundsXML](https://www.fundsxml.org/) – Open, royalty-free XML standard for fund data exchange and regulatory reporting across the European fund industry ([schema](https://github.com/fundsxml/schema)).
 - [Level Open Finance](https://github.com/levelcfo/open-finance-skills) – MIT-licensed Node.js ESM accounting and financial close validation toolkit with 20 deterministic controllers (trial-balance footing, accrual cutoffs, AR/AP aging, payroll-to-GL reconciliation, cash-flow runway) and a read-only Model Context Protocol server ([docs](https://levelcfo.com/finance-systems/)).
